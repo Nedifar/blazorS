@@ -1,0 +1,1048 @@
+17.11.2022 11:45:01 ----- WeatherHostedErrorOne or more errors occurred. (Error converting value {null} to type 'System.Single'. Path 'currentConditions.solarenergy', line 1, position 11155.)
+17.11.2022 11:47:54 ----- WeatherHostedErrorOne or more errors occurred. (Error converting value {null} to type 'System.Single'. Path 'currentConditions.solarenergy', line 1, position 11155.)
+17.11.2022 19:56:08 ----- WeatherHostedErrorOne or more errors occurred. (Error converting value {null} to type 'System.Single'. Path 'currentConditions.solarenergy', line 1, position 11155.)
+17.11.2022 19:57:03 ----- g0KEl9WO6g1PsD1Xn_l1Ng
+17.11.2022 19:58:57 ----- Disconnected  g0KEl9WO6g1PsD1Xn_l1Ng
+17.11.2022 19:58:59 ----- w2YhvPXi6s6GtxiCuameqA
+17.11.2022 20:07:55 ----- WeatherHostedErrorOne or more errors occurred. (Error converting value {null} to type 'System.Single'. Path 'currentConditions.solarenergy', line 1, position 11164.)
+17.11.2022 20:08:02 ----- YkwII8lqJjABhGP3x3bxfw
+17.11.2022 20:08:14 ----- Disconnected  YkwII8lqJjABhGP3x3bxfw
+17.11.2022 20:08:17 ----- vr_gZqwem4lgLmLjcK8uJg
+17.11.2022 20:08:45 ----- Disconnected  vr_gZqwem4lgLmLjcK8uJg
+17.11.2022 20:10:13 ----- WeatherHostedErrorOne or more errors occurred. (Error converting value {null} to type 'System.Single'. Path 'currentConditions.solarenergy', line 1, position 11164.)
+17.11.2022 20:10:21 ----- GM0SailiBM2-PWvAklIwjA
+17.11.2022 20:10:34 ----- Disconnected  GM0SailiBM2-PWvAklIwjA
+17.11.2022 20:11:18 ----- WeatherHostedErrorOne or more errors occurred. (Error converting value {null} to type 'System.Single'. Path 'currentConditions.solarenergy', line 1, position 11164.)
+17.11.2022 20:11:25 ----- oue_BOUS7DmbRDRovbk7bg
+17.11.2022 20:11:55 ----- Disconnected  oue_BOUS7DmbRDRovbk7bg
+17.11.2022 20:11:58 ----- fgitxcrmLyVCalIONpJQmw
+17.11.2022 20:13:42 ----- Disconnected  fgitxcrmLyVCalIONpJQmw
+17.11.2022 20:20:56 ----- Il9J0QSVGqdCpu65joj0wg
+17.11.2022 20:21:07 ----- Disconnected  Il9J0QSVGqdCpu65joj0wg
+17.11.2022 20:22:22 ----- K47GXJRsLBmkadrX1rfPOg
+17.11.2022 20:22:27 ----- Disconnected  K47GXJRsLBmkadrX1rfPOg
+17.11.2022 20:22:29 ----- mtQgtPySfaZMO0Vwj6lIQw
+17.11.2022 20:27:49 ----- P9WCel6WUlLGthEm6h553g
+17.11.2022 20:28:05 ----- Disconnected  P9WCel6WUlLGthEm6h553g
+17.11.2022 20:28:08 ----- 928AIWDjGqFAI98a7Nz9JA
+17.11.2022 20:28:50 ----- Disconnected  928AIWDjGqFAI98a7Nz9JA
+17.11.2022 20:29:35 ----- 1ck-aO3YQQy2z9c-Vy_6ng
+17.11.2022 20:29:46 ----- XeoCRYH5NAeHGGU40DGNdQ
+17.11.2022 20:32:36 ----- Disconnected  1ck-aO3YQQy2z9c-Vy_6ng
+17.11.2022 20:33:06 ----- 41twtFGFXnnyRn0OtJnnwg
+17.11.2022 20:33:28 ----- -dXbR9Vhgq_cMNPWJ9K0ew
+17.11.2022 20:34:08 ----- Disconnected  41twtFGFXnnyRn0OtJnnwg
+17.11.2022 20:34:10 ----- 58U110QbMOgrcsa9Ll0GiA
+17.11.2022 20:35:09 ----- PfWUpqRPeeGmmvO-vezQRw
+17.11.2022 20:35:13 ----- Disconnected  PfWUpqRPeeGmmvO-vezQRw
+17.11.2022 20:35:13 ----- yFv6hP14N0Il_E0eIGIl2g
+17.11.2022 20:35:15 ----- EpaxipQ-q6rAudVWT8elpw
+17.11.2022 20:35:37 ----- Disconnected  EpaxipQ-q6rAudVWT8elpw
+17.11.2022 20:36:18 ----- dZi0vdpT7SzFx9zVpOtCVw
+17.11.2022 20:36:20 ----- Disconnected  dZi0vdpT7SzFx9zVpOtCVw
+17.11.2022 20:36:22 ----- 1JR9V0L6HnPB4av9M6GJQA
+17.11.2022 20:36:29 ----- Unm0L3daSRVxdN9oW1rybA
+17.11.2022 20:37:19 ----- Disconnected  1JR9V0L6HnPB4av9M6GJQA
+17.11.2022 20:38:14 ----- urELugOaZdXkJMItHq3SNw
+17.11.2022 20:38:28 ----- d307C9nQwJLRdSlAbHLN8A
+17.11.2022 20:38:36 ----- Disconnected  d307C9nQwJLRdSlAbHLN8A
+17.11.2022 20:38:38 ----- 5sYNx58nEC46O3hxh9psew
+17.11.2022 20:38:42 ----- Disconnected  5sYNx58nEC46O3hxh9psew
+17.11.2022 20:38:53 ----- Disconnected  urELugOaZdXkJMItHq3SNw
+18.11.2022 10:22:12 ----- 5rHWo95im4zcpgF2bJzOAA
+18.11.2022 11:05:26 ----- Disconnected  5rHWo95im4zcpgF2bJzOAA
+18.11.2022 12:06:22 ----- 8YoR0za-vk8L415f9edH_A
+18.11.2022 12:07:29 ----- Disconnected  8YoR0za-vk8L415f9edH_A
+18.11.2022 12:07:34 ----- SHc9z0LhSP5BViUVR7v87A
+18.11.2022 12:15:44 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+18.11.2022 12:16:08 ----- pgERV9vr0H7x_hEAtkL0lA
+18.11.2022 12:16:19 ----- Disconnected  pgERV9vr0H7x_hEAtkL0lA
+18.11.2022 12:16:40 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+18.11.2022 12:16:55 ----- YVjWE2KjJ5XaGjMrgkOvAQ
+18.11.2022 12:17:02 ----- Disconnected  YVjWE2KjJ5XaGjMrgkOvAQ
+18.11.2022 12:17:06 ----- jnLtDIX0Sk0LYjHOiYQ8vw
+18.11.2022 12:17:10 ----- Disconnected  jnLtDIX0Sk0LYjHOiYQ8vw
+18.11.2022 12:17:49 ----- _24ypGkx4-sV8zWbyMng4A
+18.11.2022 12:18:58 ----- Disconnected  _24ypGkx4-sV8zWbyMng4A
+18.11.2022 12:19:01 ----- InYfh3hRfXarqniIlcrwqg
+18.11.2022 12:20:59 ----- Disconnected  InYfh3hRfXarqniIlcrwqg
+18.11.2022 12:21:04 ----- T-clZ28UmOZ5AaR8rkUqWQ
+18.11.2022 12:25:41 ----- Vu5Xcw8gwj8LFcWkGVAT8w
+18.11.2022 12:25:51 ----- Disconnected  Vu5Xcw8gwj8LFcWkGVAT8w
+18.11.2022 12:25:54 ----- p708iXFtyJtv8cCBFFOIbA
+18.11.2022 12:28:33 ----- _EwqeZ9R0uXroMc5AsSfJQ
+18.11.2022 12:29:27 ----- Disconnected  _EwqeZ9R0uXroMc5AsSfJQ
+18.11.2022 12:29:30 ----- uOQhyXh9nD_H3rSaWz7AWQ
+18.11.2022 12:38:44 ----- u8ccrHhcZf4AtYR_hJA1rg
+23.11.2022 12:31:35 ----- ZvaA7eCTKRhZ35gPNZMK6w
+23.11.2022 12:31:39 ----- Disconnected  ZvaA7eCTKRhZ35gPNZMK6w
+23.11.2022 12:31:42 ----- 890O67mMU8g0JeLzfly_iA
+23.11.2022 12:37:53 ----- Disconnected  890O67mMU8g0JeLzfly_iA
+23.11.2022 12:37:56 ----- moQn0_Zcc029pE5CNa5Tew
+23.11.2022 12:38:40 ----- Disconnected  moQn0_Zcc029pE5CNa5Tew
+23.11.2022 12:41:24 ----- LTkx6q4NGUw5FUpLQ77qpg
+23.11.2022 12:41:37 ----- Disconnected  LTkx6q4NGUw5FUpLQ77qpg
+23.11.2022 12:41:41 ----- fVeWQH5I_7MCZ1K3yhUpFg
+23.11.2022 12:49:28 ----- Disconnected  fVeWQH5I_7MCZ1K3yhUpFg
+24.11.2022 11:38:17 ----- FloorSheduleErrorObject reference not set to an instance of an object.
+24.11.2022 11:38:30 ----- aeK3-qqjX7K9K8TiOM7pfQ
+24.11.2022 13:14:42 ----- FloorSheduleErrorObject reference not set to an instance of an object.
+24.11.2022 13:14:51 ----- sQMP-UAvkfbPBSA5ZULbOg
+24.11.2022 13:16:22 ----- FloorSheduleErrorObject reference not set to an instance of an object.
+24.11.2022 13:16:31 ----- Disconnected  sQMP-UAvkfbPBSA5ZULbOg
+24.11.2022 13:57:25 ----- FloorSheduleErrorObject reference not set to an instance of an object.
+24.11.2022 13:57:32 ----- raz0ISUtX8TFHgFtUlDY5A
+24.11.2022 13:57:37 ----- Disconnected  raz0ISUtX8TFHgFtUlDY5A
+24.11.2022 13:58:15 ----- FloorSheduleErrorObject reference not set to an instance of an object.
+24.11.2022 13:58:23 ----- 1h4FWsKbNyzTcVZKURWNnA
+24.11.2022 14:00:00 ----- FloorSheduleErrorObject reference not set to an instance of an object.
+24.11.2022 14:04:51 ----- qYv3bwyrcTYbbmFjkAszbQ
+24.11.2022 14:05:30 ----- Disconnected  qYv3bwyrcTYbbmFjkAszbQ
+24.11.2022 14:05:33 ----- mXHojoI0MEzohIhAEf5XIA
+24.11.2022 15:22:37 ----- Disconnected  mXHojoI0MEzohIhAEf5XIA
+24.11.2022 15:22:37 ----- Lm5UtotfbVV7MnkzNqNhaA
+24.11.2022 15:38:31 ----- Disconnected  Lm5UtotfbVV7MnkzNqNhaA
+24.11.2022 15:38:31 ----- 8JEbLotjOrg0tRfjHYs0Qw
+24.11.2022 15:43:56 ----- 7gb9JF25Q73jpZ-yCwndgw
+24.11.2022 15:44:28 ----- Disconnected  7gb9JF25Q73jpZ-yCwndgw
+24.11.2022 15:44:32 ----- M8_RkntOYnPAgIrCF3uY-g
+24.11.2022 15:37:37 ----- MainSheduleErrorПопытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера. [::ffff:31.31.198.188]:443 (oksei.ru:443)
+24.11.2022 15:43:29 ----- 62WILUdjh-IGu4Np7BimQQ
+24.11.2022 15:43:33 ----- Disconnected  62WILUdjh-IGu4Np7BimQQ
+24.11.2022 15:43:36 ----- CyDJhbu0oZyEzTLHaOVRpw
+24.11.2022 15:47:00 ----- FsHqkKfKavUMmFxuqUoZJg
+24.11.2022 15:47:06 ----- Disconnected  FsHqkKfKavUMmFxuqUoZJg
+24.11.2022 15:47:10 ----- 7vDSSa3j6lGBaWSLPS_nKA
+24.11.2022 15:53:35 ----- Zhwh4Pr0CCs-ksFuFT7ZKQ
+24.11.2022 15:53:37 ----- Disconnected  Zhwh4Pr0CCs-ksFuFT7ZKQ
+24.11.2022 15:53:40 ----- LPcmFH3iq-o4J8IwNZbEMA
+24.11.2022 16:00:19 ----- Disconnected  LPcmFH3iq-o4J8IwNZbEMA
+25.11.2022 9:07:03 ----- sJNfxtvVD0c62Xa80K6mXA
+25.11.2022 15:10:44 ----- Disconnected  sJNfxtvVD0c62Xa80K6mXA
+25.11.2022 15:10:44 ----- 4TKrb3nyJ80p58FIqAewDg
+25.11.2022 15:10:50 ----- Disconnected  4TKrb3nyJ80p58FIqAewDg
+25.11.2022 15:10:56 ----- ajX9PbyDf5xeAt_BU75U4g
+25.11.2022 15:11:33 ----- Disconnected  ajX9PbyDf5xeAt_BU75U4g
+25.11.2022 15:11:36 ----- W_iehGaMMtx222_gNOgvFA
+25.11.2022 15:12:42 ----- Disconnected  W_iehGaMMtx222_gNOgvFA
+25.11.2022 15:13:14 ----- cYoI-3YOevJak9hO9YMlmw
+25.11.2022 15:19:45 ----- 9YC1jfU7qI5RnGKPvrBwuw
+25.11.2022 15:19:50 ----- Disconnected  9YC1jfU7qI5RnGKPvrBwuw
+25.11.2022 15:19:54 ----- A3g1LqvOqoYQkKEhFoqGKQ
+25.11.2022 15:35:33 ----- Disconnected  A3g1LqvOqoYQkKEhFoqGKQ
+25.11.2022 15:35:33 ----- d9hwA-TVpFkMhZfvHhpeVQ
+25.11.2022 15:39:37 ----- kdGNmp7-f5Mv8J48Agnyxw
+25.11.2022 15:40:09 ----- Disconnected  kdGNmp7-f5Mv8J48Agnyxw
+25.11.2022 15:40:13 ----- GuHgjYpI_msGVVZEKaPLgg
+25.11.2022 15:45:32 ----- JtcOKv4YcT4urUgre0E44g
+25.11.2022 15:45:36 ----- Disconnected  JtcOKv4YcT4urUgre0E44g
+25.11.2022 15:45:40 ----- IB6vH1GtNfJ2GbVBcnD9jA
+25.11.2022 15:48:33 ----- tJ4g7ovdXjZlVnuZzXEHZg
+25.11.2022 15:48:52 ----- Disconnected  tJ4g7ovdXjZlVnuZzXEHZg
+25.11.2022 15:48:57 ----- PR5re_7qdut_ctlqcbPaYw
+25.11.2022 15:49:29 ----- Disconnected  PR5re_7qdut_ctlqcbPaYw
+25.11.2022 15:51:31 ----- JQ6C7esKVJSQ9yghVu7R2A
+25.11.2022 15:51:34 ----- Disconnected  JQ6C7esKVJSQ9yghVu7R2A
+25.11.2022 15:51:39 ----- dv3WRhIK-wzcgh1f3wt-iw
+25.11.2022 15:51:46 ----- Disconnected  dv3WRhIK-wzcgh1f3wt-iw
+25.11.2022 15:52:32 ----- 45GrqOx-AN8ymEWU64wCqQ
+25.11.2022 15:52:38 ----- Disconnected  45GrqOx-AN8ymEWU64wCqQ
+25.11.2022 15:52:43 ----- M1t7pFfd4fGULYwzRo6yhg
+25.11.2022 15:53:01 ----- Disconnected  M1t7pFfd4fGULYwzRo6yhg
+25.11.2022 16:01:24 ----- qA5yHPvRn4NYAQhR4OO9vw
+25.11.2022 16:01:38 ----- Disconnected  qA5yHPvRn4NYAQhR4OO9vw
+25.11.2022 16:01:43 ----- w2MUo1V1_Na791VYeH0BIg
+25.11.2022 16:03:33 ----- WodbjchTp8s4u_7WaYXO7g
+25.11.2022 16:03:34 ----- Disconnected  WodbjchTp8s4u_7WaYXO7g
+25.11.2022 16:03:39 ----- C7r9tdHuwi0nc1Tti3F87w
+25.11.2022 16:25:29 ----- Disconnected  C7r9tdHuwi0nc1Tti3F87w
+25.11.2022 16:25:30 ----- 95x6zod0F6fqUJGxP5vmNw
+25.11.2022 16:40:08 ----- WeekNameHostedErrorAn exception has been raised that is likely due to a transient failure.
+25.11.2022 16:40:17 ----- FloorSheduleErrorAn exception has been raised that is likely due to a transient failure.
+25.11.2022 16:40:32 ----- AdminHostedErrorAn exception has been raised that is likely due to a transient failure.
+25.11.2022 16:40:47 ----- AnnouncmentostedErrorAn exception has been raised that is likely due to a transient failure.
+25.11.2022 16:41:29 ----- x64YuenLXyyE5iUhpGfpww
+25.11.2022 16:42:36 ----- FloorSheduleErrorAn exception has been raised that is likely due to a transient failure.
+25.11.2022 16:42:36 ----- bUzHC9WA1iXmAk-Cuuqwig
+25.11.2022 16:42:36 ----- Disconnected  x64YuenLXyyE5iUhpGfpww
+25.11.2022 19:09:53 ----- TJHh9hEKaGzsF2HD647MHw
+25.11.2022 19:10:30 ----- Disconnected  TJHh9hEKaGzsF2HD647MHw
+25.11.2022 19:11:41 ----- DDwrWrwFCqGCA58kkMFmDQ
+25.11.2022 19:12:23 ----- Disconnected  DDwrWrwFCqGCA58kkMFmDQ
+25.11.2022 19:17:05 ----- a9JzF9WJ5MVpEOvN2RqsJg
+25.11.2022 19:17:12 ----- Disconnected  a9JzF9WJ5MVpEOvN2RqsJg
+25.11.2022 15:18:19 ----- YphEY0ZLeb8n0NYUL4ebJQ
+25.11.2022 15:18:24 ----- Disconnected  YphEY0ZLeb8n0NYUL4ebJQ
+25.11.2022 15:18:27 ----- _9KJHwNw1c5J8izJZb62Ww
+25.11.2022 15:18:56 ----- Disconnected  _9KJHwNw1c5J8izJZb62Ww
+25.11.2022 15:18:59 ----- 5M9kC6r1t1NzaoVbyIXLmw
+25.11.2022 15:19:03 ----- Disconnected  5M9kC6r1t1NzaoVbyIXLmw
+25.11.2022 15:19:46 ----- HP1VRKwOAI637pURPlM7yg
+25.11.2022 15:23:11 ----- Disconnected  HP1VRKwOAI637pURPlM7yg
+25.11.2022 15:23:15 ----- VlqEPwX_FPiVh-TmhdPb3g
+25.11.2022 15:23:44 ----- Disconnected  VlqEPwX_FPiVh-TmhdPb3g
+25.11.2022 15:23:47 ----- Xza1B6q6vun8x0q9FlBCEQ
+25.11.2022 15:23:57 ----- Disconnected  Xza1B6q6vun8x0q9FlBCEQ
+25.11.2022 15:24:54 ----- 2uQlHOSAmvrL5_NeTXPV-A
+25.11.2022 15:25:02 ----- Disconnected  2uQlHOSAmvrL5_NeTXPV-A
+25.11.2022 15:25:06 ----- tr8KpwFGPAAH6UeP2fp5qQ
+25.11.2022 15:25:34 ----- Disconnected  tr8KpwFGPAAH6UeP2fp5qQ
+25.11.2022 15:25:38 ----- O8qZ6D_CE2-Dz5JVv3VBJw
+25.11.2022 15:26:39 ----- KpX_XFNqCR_LpZYqCnR1jg
+25.11.2022 15:26:59 ----- Disconnected  KpX_XFNqCR_LpZYqCnR1jg
+25.11.2022 18:11:19 ----- ngped_WiqCnTW0BfiRAHAg
+25.11.2022 18:11:36 ----- Disconnected  ngped_WiqCnTW0BfiRAHAg
+25.11.2022 18:11:42 ----- K1-2IdE-jXNKHMOQr5CyLQ
+25.11.2022 18:12:10 ----- Disconnected  K1-2IdE-jXNKHMOQr5CyLQ
+25.11.2022 18:12:15 ----- J8b_xvCnDv8Yxk77o7U3ZA
+25.11.2022 18:12:37 ----- Disconnected  J8b_xvCnDv8Yxk77o7U3ZA
+25.11.2022 18:12:44 ----- Xc-dz1mfTFjkipiSsv00xA
+25.11.2022 18:12:55 ----- Disconnected  Xc-dz1mfTFjkipiSsv00xA
+25.11.2022 18:14:56 ----- -ZYu70qIqr6JKKjHn6K6nw
+25.11.2022 18:15:03 ----- Disconnected  -ZYu70qIqr6JKKjHn6K6nw
+25.11.2022 18:15:07 ----- HA8Rj8odHn6SUz1UO6OOpw
+25.11.2022 18:16:50 ----- vIYSBI3lWGsodRSb54aJ3Q
+25.11.2022 18:16:54 ----- Disconnected  vIYSBI3lWGsodRSb54aJ3Q
+25.11.2022 18:16:58 ----- oJAWqXKWpdYcd-jx2YeOcQ
+25.11.2022 18:17:32 ----- Disconnected  oJAWqXKWpdYcd-jx2YeOcQ
+25.11.2022 18:17:36 ----- cnIwh07D9Ne476wi1lAq1g
+25.11.2022 18:17:44 ----- Disconnected  cnIwh07D9Ne476wi1lAq1g
+25.11.2022 18:21:25 ----- GH05il1J7lbGeyVMTm1jYQ
+25.11.2022 18:21:42 ----- Disconnected  GH05il1J7lbGeyVMTm1jYQ
+25.11.2022 18:22:07 ----- ZzGljXjvSzuiYJdufbIcVQ
+25.11.2022 18:22:08 ----- Disconnected  ZzGljXjvSzuiYJdufbIcVQ
+25.11.2022 18:22:11 ----- sjx3BcWdlZpg_3Clme-Ryw
+25.11.2022 18:22:27 ----- Disconnected  sjx3BcWdlZpg_3Clme-Ryw
+25.11.2022 18:22:31 ----- i1EOk9JZzKNdDggG5D3S1Q
+25.11.2022 18:24:23 ----- 5oB9K7dUXKjFrFEc02v6cg
+25.11.2022 18:24:37 ----- Disconnected  5oB9K7dUXKjFrFEc02v6cg
+25.11.2022 18:24:41 ----- HY7hSomxU3cGkH8q3Ndxdg
+25.11.2022 18:25:14 ----- uu5mjuIe8P85VYSPcC5EwA
+25.11.2022 18:26:14 ----- Disconnected  uu5mjuIe8P85VYSPcC5EwA
+25.11.2022 18:26:15 ----- fkQ73AyxobhzQB0y0WP1gQ
+25.11.2022 18:26:15 ----- Disconnected  fkQ73AyxobhzQB0y0WP1gQ
+25.11.2022 18:26:32 ----- yb4oOHzdbh5F_XgVFcQM_Q
+25.11.2022 18:27:54 ----- Disconnected  yb4oOHzdbh5F_XgVFcQM_Q
+25.11.2022 18:28:40 ----- Disconnected  HY7hSomxU3cGkH8q3Ndxdg
+25.11.2022 18:28:45 ----- z3Yx-dDkQC-oCv3g6aWPbw
+25.11.2022 18:29:04 ----- Disconnected  z3Yx-dDkQC-oCv3g6aWPbw
+25.11.2022 18:29:48 ----- 2_Tegro1DlBPwFPpD9N36A
+25.11.2022 18:33:25 ----- xp71BV0CcoDooaCsdwppFg
+25.11.2022 18:33:27 ----- Disconnected  xp71BV0CcoDooaCsdwppFg
+25.11.2022 18:33:31 ----- u7vtTQmsEnXYAD3kckJUyA
+25.11.2022 18:33:41 ----- Disconnected  u7vtTQmsEnXYAD3kckJUyA
+25.11.2022 18:33:46 ----- 9UEUken9M9hPW238fFZJ3A
+25.11.2022 18:36:34 ----- VQpDXJzv0gIQ4Jj3Qno86A
+25.11.2022 18:36:38 ----- Disconnected  VQpDXJzv0gIQ4Jj3Qno86A
+25.11.2022 18:36:42 ----- gxOtQul80QpI6YT5I8wxyA
+25.11.2022 18:37:57 ----- Disconnected  gxOtQul80QpI6YT5I8wxyA
+25.11.2022 18:39:04 ----- BFyc0HGXMFexvS8ei3cWLg
+25.11.2022 18:39:08 ----- Disconnected  BFyc0HGXMFexvS8ei3cWLg
+25.11.2022 18:39:12 ----- k-SMigxeMhnRCVWSPWlyyA
+25.11.2022 18:39:19 ----- Disconnected  k-SMigxeMhnRCVWSPWlyyA
+25.11.2022 18:39:23 ----- 0NLZvkCmE0t0zVl7qanSuQ
+25.11.2022 18:40:31 ----- Disconnected  0NLZvkCmE0t0zVl7qanSuQ
+28.11.2022 12:16:33 ----- sDCW52763HRr4VY5SmBClA
+28.11.2022 12:16:54 ----- Disconnected  sDCW52763HRr4VY5SmBClA
+28.11.2022 12:16:59 ----- hpm3W2IYqEWXDX4njTz1bw
+28.11.2022 12:17:05 ----- Disconnected  hpm3W2IYqEWXDX4njTz1bw
+28.11.2022 12:17:10 ----- ydDx5inkPoAEL1qbjJ97Lg
+28.11.2022 10:23:46 ----- ctxNKXCNS5ELWxFvy-1mRA
+28.11.2022 10:53:43 ----- Disconnected  ctxNKXCNS5ELWxFvy-1mRA
+28.11.2022 10:53:48 ----- Leilvp7esP-8RT6zJ0Vs2Q
+28.11.2022 11:04:25 ----- 9Lad3GFiq_gGYOoQdAMJrA
+28.11.2022 11:04:30 ----- Disconnected  9Lad3GFiq_gGYOoQdAMJrA
+28.11.2022 11:04:35 ----- A_7NqDYmTqr1BOOoIGZSCw
+28.11.2022 11:04:42 ----- Disconnected  A_7NqDYmTqr1BOOoIGZSCw
+28.11.2022 11:04:47 ----- HWWktynSnUcKOiH8AAifmA
+28.11.2022 11:05:11 ----- Disconnected  HWWktynSnUcKOiH8AAifmA
+28.11.2022 11:07:13 ----- FIT3tp2_j29aHBQguJ1p8w
+28.11.2022 11:07:27 ----- Disconnected  FIT3tp2_j29aHBQguJ1p8w
+28.11.2022 11:07:32 ----- 7RT7l4m3MxpFwR4voM1C6w
+28.11.2022 11:07:54 ----- Disconnected  7RT7l4m3MxpFwR4voM1C6w
+28.11.2022 11:08:12 ----- IA30kTRs2lyeUs9TAGsgEA
+28.11.2022 11:37:58 ----- Disconnected  IA30kTRs2lyeUs9TAGsgEA
+28.11.2022 11:38:04 ----- 1Si9ZvhfiQvpYktllMorDg
+28.11.2022 13:29:57 ----- B7tS3NAOudAxYpzSX2wUbw
+28.11.2022 13:30:01 ----- Disconnected  B7tS3NAOudAxYpzSX2wUbw
+28.11.2022 13:30:05 ----- n4TyuHWyGmH2MgVDboKQ4A
+28.11.2022 13:30:10 ----- Disconnected  n4TyuHWyGmH2MgVDboKQ4A
+28.11.2022 13:30:14 ----- Pl-21oTlMNBWnOIDdA59eQ
+28.11.2022 13:30:28 ----- Disconnected  Pl-21oTlMNBWnOIDdA59eQ
+28.11.2022 13:31:20 ----- w6FYuAgxX6N_OOmnqzVhGA
+28.11.2022 13:31:24 ----- Disconnected  w6FYuAgxX6N_OOmnqzVhGA
+28.11.2022 13:31:28 ----- 44twMuAPonFjSk8nwdxdUQ
+28.11.2022 13:31:32 ----- Disconnected  44twMuAPonFjSk8nwdxdUQ
+28.11.2022 13:31:35 ----- 1ym7zoCPF_FaSuT_3QdLCw
+28.11.2022 13:50:08 ----- oGE7J8N-wRGaSR_eOopc6g
+28.11.2022 13:50:11 ----- Disconnected  oGE7J8N-wRGaSR_eOopc6g
+28.11.2022 13:50:15 ----- h9oi5XdRh_zgKMOQt4OJaQ
+28.11.2022 13:51:01 ----- Disconnected  h9oi5XdRh_zgKMOQt4OJaQ
+28.11.2022 13:51:06 ----- jHlOX5fYGkE1Y8J388lH8w
+28.11.2022 13:52:16 ----- Disconnected  jHlOX5fYGkE1Y8J388lH8w
+28.11.2022 13:54:45 ----- f-FSD9wuxe-sWlZ351KZSA
+28.11.2022 14:02:07 ----- kQqGRrQJKmt7P3NUjn5Ztw
+28.11.2022 14:02:34 ----- Disconnected  kQqGRrQJKmt7P3NUjn5Ztw
+28.11.2022 14:03:15 ----- 7hRqDi9DDblp31csTk0KGw
+28.11.2022 14:03:37 ----- Disconnected  7hRqDi9DDblp31csTk0KGw
+28.11.2022 14:03:41 ----- IQ6y5DZ6wH0TbYwwXxo-tw
+28.11.2022 14:03:53 ----- Disconnected  IQ6y5DZ6wH0TbYwwXxo-tw
+28.11.2022 14:03:57 ----- mov5t6EQlnWbHl-cMl_hrA
+28.11.2022 14:04:03 ----- Disconnected  mov5t6EQlnWbHl-cMl_hrA
+28.11.2022 14:04:57 ----- QaeyxWXTwUFoPABylOlsrQ
+28.11.2022 14:05:01 ----- Disconnected  QaeyxWXTwUFoPABylOlsrQ
+28.11.2022 14:05:05 ----- -yzlnpU8g-6QPx-J6AOIVw
+28.11.2022 14:05:27 ----- Disconnected  -yzlnpU8g-6QPx-J6AOIVw
+28.11.2022 14:17:48 ----- baMTngO0xCZJBbwLJKzaxQ
+28.11.2022 14:17:50 ----- Disconnected  baMTngO0xCZJBbwLJKzaxQ
+28.11.2022 14:17:54 ----- 1mLcNFwmf9ZmqktbRL2tyA
+28.11.2022 14:18:27 ----- Disconnected  1mLcNFwmf9ZmqktbRL2tyA
+28.11.2022 14:18:32 ----- kr1g_hRqclgRXL2fejIkfA
+28.11.2022 14:19:11 ----- BCRliW7PpPD1GEvc1-8RKw
+28.11.2022 14:19:28 ----- Disconnected  BCRliW7PpPD1GEvc1-8RKw
+28.11.2022 14:19:32 ----- UTUexwDA-FTV7bCiUwcpbQ
+28.11.2022 14:20:00 ----- Disconnected  UTUexwDA-FTV7bCiUwcpbQ
+28.11.2022 14:20:48 ----- 0FEfTdhC7yVQ2VqTQBb_PA
+28.11.2022 14:20:52 ----- Disconnected  0FEfTdhC7yVQ2VqTQBb_PA
+28.11.2022 14:20:56 ----- cW_SWQCt6pXBXZ_iKFrvsw
+28.11.2022 14:21:12 ----- Disconnected  cW_SWQCt6pXBXZ_iKFrvsw
+28.11.2022 14:21:19 ----- Y6_fqeDejKnXshXGR_WzPw
+28.11.2022 14:23:33 ----- 6_ik-MNaC-d9Is2jJXRn5Q
+28.11.2022 14:23:39 ----- Disconnected  6_ik-MNaC-d9Is2jJXRn5Q
+28.11.2022 14:23:44 ----- Um-6N6UuK1sRC9YzYpQGWw
+28.11.2022 14:23:46 ----- Disconnected  Um-6N6UuK1sRC9YzYpQGWw
+28.11.2022 14:23:52 ----- hC6u2eWJiKfiZEDFVw6xBw
+28.11.2022 14:26:55 ----- Ndx7_9yT8mA-xrF3O5JpAA
+28.11.2022 14:27:00 ----- Disconnected  Ndx7_9yT8mA-xrF3O5JpAA
+28.11.2022 14:27:04 ----- 4dwrh43Uin5F7jg5ssc3zQ
+28.11.2022 14:27:10 ----- Disconnected  4dwrh43Uin5F7jg5ssc3zQ
+28.11.2022 14:27:14 ----- AJxnveTQqpaxGGprH-5cPw
+28.11.2022 14:29:51 ----- gfuuAz-bkjjsL9dMY6kF1A
+28.11.2022 14:29:53 ----- Disconnected  gfuuAz-bkjjsL9dMY6kF1A
+28.11.2022 14:29:57 ----- QwYcdx7Vltdj8I6eIQq6Iw
+28.11.2022 14:30:01 ----- Disconnected  QwYcdx7Vltdj8I6eIQq6Iw
+28.11.2022 14:30:05 ----- Phwkx2ywR1Mmr42NEn8L0w
+28.11.2022 14:31:48 ----- q3Vfwo4KiQOO6Lf95L3onA
+28.11.2022 14:31:53 ----- Disconnected  q3Vfwo4KiQOO6Lf95L3onA
+28.11.2022 14:31:57 ----- YDhoDHk8LyocJXPmJzIxdw
+28.11.2022 14:32:02 ----- Disconnected  YDhoDHk8LyocJXPmJzIxdw
+28.11.2022 14:32:07 ----- AhPfpTYojv4bEVSy-wyRJQ
+28.11.2022 14:33:55 ----- Aq4EOrcPXhrF-KW8KDI5vg
+28.11.2022 14:35:41 ----- FhqXHZ9MO70UphLAN0Gqxg
+28.11.2022 14:35:43 ----- Disconnected  FhqXHZ9MO70UphLAN0Gqxg
+28.11.2022 14:35:47 ----- UyA9BFPyFTCo5XgbVy5kCg
+28.11.2022 14:36:09 ----- Disconnected  UyA9BFPyFTCo5XgbVy5kCg
+29.11.2022 9:21:17 ----- KBnY5kCepoPpfcC7d-TQ8g
+29.11.2022 9:21:21 ----- Disconnected  KBnY5kCepoPpfcC7d-TQ8g
+29.11.2022 9:21:25 ----- XMeN-klw2aC1N3DldBmz2w
+29.11.2022 9:25:13 ----- Disconnected  XMeN-klw2aC1N3DldBmz2w
+29.11.2022 9:25:19 ----- iRrWybJvyYx2vTeB80Tm5A
+29.11.2022 9:27:34 ----- 6q1KEm_heAbOWdNZ5vWJsQ
+29.11.2022 9:27:37 ----- Disconnected  6q1KEm_heAbOWdNZ5vWJsQ
+29.11.2022 9:27:41 ----- StrdVTiXBg9RVO4TVJimbg
+29.11.2022 9:27:47 ----- Disconnected  StrdVTiXBg9RVO4TVJimbg
+29.11.2022 9:27:52 ----- Cqvko9hivmS0KQ4lhCv-vw
+29.11.2022 9:28:16 ----- Disconnected  Cqvko9hivmS0KQ4lhCv-vw
+29.11.2022 9:44:42 ----- cVYlJiQJ7-YeghYE3vzrQA
+29.11.2022 9:45:25 ----- Disconnected  cVYlJiQJ7-YeghYE3vzrQA
+29.11.2022 9:45:31 ----- doTIQFUoAtuS4mzs8AB1xw
+29.11.2022 9:46:00 ----- Disconnected  doTIQFUoAtuS4mzs8AB1xw
+29.11.2022 10:01:51 ----- P2gib8xdX_iH5OTQCRHsZA
+29.11.2022 10:01:52 ----- Disconnected  P2gib8xdX_iH5OTQCRHsZA
+29.11.2022 10:01:58 ----- NwJhKA37dxGcTVvH7sW_Lg
+29.11.2022 10:02:06 ----- Disconnected  NwJhKA37dxGcTVvH7sW_Lg
+29.11.2022 10:02:11 ----- 5voohsLLWg32K2Yk_ZwFhw
+29.11.2022 10:03:43 ----- UDahdNDV0Rz0Chc_kTo4VQ
+29.11.2022 10:03:45 ----- Disconnected  UDahdNDV0Rz0Chc_kTo4VQ
+29.11.2022 10:03:50 ----- Bji6l6e-j_ELNmrw_Ck20Q
+29.11.2022 10:03:53 ----- Disconnected  Bji6l6e-j_ELNmrw_Ck20Q
+29.11.2022 10:03:58 ----- AjbkXN7BeItj1wY6a3VNQQ
+29.11.2022 10:05:23 ----- bbRPVdFOEEd0BaZBV-90ow
+29.11.2022 10:05:34 ----- Disconnected  bbRPVdFOEEd0BaZBV-90ow
+29.11.2022 10:05:39 ----- YrXha_GvnFUy6SHRD99wlQ
+29.11.2022 10:10:06 ----- jSLLdLT9VjPp1PmraHP0sw
+29.11.2022 10:10:17 ----- Disconnected  jSLLdLT9VjPp1PmraHP0sw
+29.11.2022 10:10:26 ----- XNFCq_EFlqDeEHkuRD9XNQ
+29.11.2022 10:10:34 ----- Disconnected  XNFCq_EFlqDeEHkuRD9XNQ
+29.11.2022 10:10:40 ----- _KH94X8BvNj18FoSI8W6Eg
+29.11.2022 10:14:45 ----- P6-MvtLERtFsuxnPrUubrQ
+29.11.2022 10:14:52 ----- Disconnected  P6-MvtLERtFsuxnPrUubrQ
+29.11.2022 10:14:57 ----- lS6EmcsjKOiFgwuCZubYQA
+29.11.2022 10:17:50 ----- nzaHpUOQFDk3CUW3X4kQFw
+29.11.2022 10:17:53 ----- Disconnected  nzaHpUOQFDk3CUW3X4kQFw
+29.11.2022 10:18:04 ----- wVu2kdtgs__XIbKh_dmmTw
+29.11.2022 10:26:38 ----- KTYSgn3O8rXlXce599X2HQ
+29.11.2022 10:26:39 ----- Disconnected  KTYSgn3O8rXlXce599X2HQ
+29.11.2022 10:26:48 ----- TKlkeE-TTOlNbbRLHNKOVA
+29.11.2022 10:30:18 ----- Jc5C995OqP8h1dFWDOLZ4A
+29.11.2022 10:30:21 ----- Disconnected  Jc5C995OqP8h1dFWDOLZ4A
+29.11.2022 10:30:26 ----- INjuY-cdwTBRUr3NNNEC8Q
+29.11.2022 10:30:45 ----- Disconnected  INjuY-cdwTBRUr3NNNEC8Q
+29.11.2022 10:30:51 ----- pESXWEdTl4vAR84oCCweWg
+29.11.2022 10:48:41 ----- e1O24dXMKtiJsPZrq9DOlg
+29.11.2022 10:49:02 ----- Disconnected  e1O24dXMKtiJsPZrq9DOlg
+29.11.2022 10:49:13 ----- llyQGjIFI6acqbpJDrV4sg
+29.11.2022 10:49:19 ----- Disconnected  llyQGjIFI6acqbpJDrV4sg
+29.11.2022 10:49:23 ----- S-8fMMtVhAxqSk2RQeEEXw
+29.11.2022 10:50:20 ----- ftsUbY9-uEQE-RJ8RLRZMg
+29.11.2022 10:50:21 ----- Disconnected  ftsUbY9-uEQE-RJ8RLRZMg
+29.11.2022 10:50:27 ----- VJPpFFOy8exAj00vgAkhzg
+29.11.2022 11:00:16 ----- iDw7pwPdGCtVqfhl27LjHA
+29.11.2022 11:00:27 ----- Disconnected  iDw7pwPdGCtVqfhl27LjHA
+29.11.2022 11:00:32 ----- Ne5t38tX7IJ6R7ELSBiC9g
+29.11.2022 11:02:04 ----- JgamV6xRB3esHYy4UBUTEg
+29.11.2022 11:02:31 ----- Disconnected  JgamV6xRB3esHYy4UBUTEg
+29.11.2022 11:02:40 ----- U54X7TJiikJgLlU8FTW-rQ
+29.11.2022 11:02:50 ----- Disconnected  U54X7TJiikJgLlU8FTW-rQ
+29.11.2022 11:02:58 ----- Hv6N07GZwY_B-6MgyWzkcw
+29.11.2022 11:06:00 ----- F1SlATa1i8BfsDOuAwI1pA
+29.11.2022 11:06:05 ----- Disconnected  F1SlATa1i8BfsDOuAwI1pA
+29.11.2022 11:06:13 ----- _xseK-GhOICrTy5BqCQ8mQ
+29.11.2022 11:08:18 ----- Ab_MJCuDF6yDwvu0zvjlBw
+29.11.2022 11:08:21 ----- Disconnected  Ab_MJCuDF6yDwvu0zvjlBw
+29.11.2022 11:08:26 ----- KW_mzugaGbChngcxe_I2tQ
+29.11.2022 11:08:30 ----- Disconnected  KW_mzugaGbChngcxe_I2tQ
+29.11.2022 11:08:36 ----- imUZVev5o07P18-6Na4w8g
+29.11.2022 11:08:56 ----- Disconnected  imUZVev5o07P18-6Na4w8g
+29.11.2022 11:53:57 ----- aDA8vPvkqnDTY-cLKHyBnQ
+29.11.2022 11:54:00 ----- Disconnected  aDA8vPvkqnDTY-cLKHyBnQ
+29.11.2022 11:54:06 ----- RmNEgdqhwoaxGcOGJLW-Yw
+29.11.2022 11:56:42 ----- pKfUL9BoQx-QRTcYEON75Q
+29.11.2022 11:56:50 ----- Disconnected  pKfUL9BoQx-QRTcYEON75Q
+29.11.2022 11:56:54 ----- zYU1mwAb7MPWxLacPLklhw
+29.11.2022 11:57:04 ----- Disconnected  zYU1mwAb7MPWxLacPLklhw
+29.11.2022 11:57:09 ----- 68snCGeAqt3HXRoKeXN0AA
+29.11.2022 11:58:09 ----- A0YXJQWCDW_piSBbqMVplA
+29.11.2022 11:58:10 ----- Disconnected  A0YXJQWCDW_piSBbqMVplA
+29.11.2022 11:58:14 ----- gI6b5NTT3DN6fsxZsnJglw
+29.11.2022 12:19:46 ----- AkdJazWc1JtydP4MJNlcUw
+29.11.2022 12:19:53 ----- Disconnected  AkdJazWc1JtydP4MJNlcUw
+29.11.2022 12:19:58 ----- XFBn17MRQJQKL1X759Dypw
+29.11.2022 12:21:15 ----- Disconnected  XFBn17MRQJQKL1X759Dypw
+29.11.2022 12:21:20 ----- kG1PvO9QqFJirSJZ28b8HQ
+29.11.2022 12:22:13 ----- V72uzLwMbkDcF-jcmE5Izg
+29.11.2022 12:22:16 ----- Disconnected  V72uzLwMbkDcF-jcmE5Izg
+29.11.2022 12:22:23 ----- tXcxvcSfN5TbZC0IkxgT5A
+29.11.2022 12:26:38 ----- vipZmXC2LfaPfwfckzjtMQ
+29.11.2022 12:26:43 ----- Disconnected  vipZmXC2LfaPfwfckzjtMQ
+29.11.2022 12:26:46 ----- oHSO9cUOTMhu50rE_Ns9sg
+29.11.2022 12:31:46 ----- _rbVLB7wXYUt9W_q0yBJuA
+29.11.2022 12:31:49 ----- Disconnected  _rbVLB7wXYUt9W_q0yBJuA
+29.11.2022 12:31:52 ----- hBUUJ97vDtwIW2DuG-lqAA
+29.11.2022 12:31:57 ----- Disconnected  hBUUJ97vDtwIW2DuG-lqAA
+29.11.2022 12:32:01 ----- Kng7Kzq_X-MlHoTLvOw-Eg
+29.11.2022 12:42:48 ----- t424ruPQmgwImnkLbyUw9A
+29.11.2022 12:42:52 ----- Disconnected  t424ruPQmgwImnkLbyUw9A
+29.11.2022 12:42:56 ----- ky6CUkiFpSfSPdWDheSm4g
+29.11.2022 12:52:26 ----- _65u45jmovfCg2gowXK4cQ
+29.11.2022 12:52:29 ----- Disconnected  _65u45jmovfCg2gowXK4cQ
+29.11.2022 12:52:34 ----- RXpusLm8LuivQz99vDQQMg
+29.11.2022 12:52:46 ----- Disconnected  RXpusLm8LuivQz99vDQQMg
+29.11.2022 12:53:22 ----- GiEKX9f0Bff-gykRqb6nJQ
+29.11.2022 12:53:23 ----- Disconnected  GiEKX9f0Bff-gykRqb6nJQ
+29.11.2022 12:53:27 ----- SMtMoADUAJEzR9SJv5IyMw
+29.11.2022 12:53:35 ----- Disconnected  SMtMoADUAJEzR9SJv5IyMw
+29.11.2022 12:55:04 ----- bNOpT80BlD5QjBk00ItR8Q
+29.11.2022 12:55:06 ----- Disconnected  bNOpT80BlD5QjBk00ItR8Q
+29.11.2022 12:55:10 ----- WR6Fd-aPaVXzBG3ggVjsDQ
+29.11.2022 12:57:44 ----- dmWY7Mk8QUEgPcF0uMI6aw
+29.11.2022 12:57:51 ----- Disconnected  dmWY7Mk8QUEgPcF0uMI6aw
+29.11.2022 12:57:54 ----- WF1HA3-ufBbnaWdPFfc9Cg
+29.11.2022 13:03:41 ----- S9vTcVSPgtoE_e4epJNF3g
+29.11.2022 13:03:50 ----- Disconnected  S9vTcVSPgtoE_e4epJNF3g
+29.11.2022 13:03:54 ----- Y-vJeOPDuef3BSp-ImZzbA
+29.11.2022 13:03:56 ----- Disconnected  Y-vJeOPDuef3BSp-ImZzbA
+29.11.2022 13:04:00 ----- qgNO7Jbrg6DMFhJgM28pdg
+29.11.2022 13:09:19 ----- Vcho9MHfL7sXmEsXuP_x_A
+29.11.2022 13:09:22 ----- Disconnected  Vcho9MHfL7sXmEsXuP_x_A
+29.11.2022 13:09:28 ----- gupzqmvtCbh36CDu9Edftw
+29.11.2022 13:09:35 ----- Disconnected  gupzqmvtCbh36CDu9Edftw
+29.11.2022 13:09:39 ----- 9fWOCh2l0HH7OFTthAwWbw
+29.11.2022 13:09:42 ----- Disconnected  9fWOCh2l0HH7OFTthAwWbw
+29.11.2022 13:14:24 ----- g4R7Ftx-Yqlb0afBeHRInA
+29.11.2022 13:14:27 ----- Disconnected  g4R7Ftx-Yqlb0afBeHRInA
+29.11.2022 13:14:31 ----- lUbQ2SACIYmr_UABftNmYQ
+29.11.2022 13:14:50 ----- Disconnected  lUbQ2SACIYmr_UABftNmYQ
+29.11.2022 13:14:55 ----- uVCtU1uyMqSBwZXAt-Oi4g
+29.11.2022 13:23:57 ----- fNYoloj6Kfim7ZOPk8lFbA
+29.11.2022 13:24:00 ----- Disconnected  fNYoloj6Kfim7ZOPk8lFbA
+29.11.2022 13:24:04 ----- JKSxWSKFWF6xLHpxFVx8sg
+29.11.2022 13:24:08 ----- Disconnected  JKSxWSKFWF6xLHpxFVx8sg
+29.11.2022 13:24:14 ----- u2MxZBn04BxwyRtBiNLPlA
+29.11.2022 13:54:13 ----- Disconnected  u2MxZBn04BxwyRtBiNLPlA
+29.11.2022 13:54:18 ----- zFhPqAskxSkt95SIj057jg
+29.11.2022 13:57:22 ----- Disconnected  zFhPqAskxSkt95SIj057jg
+29.11.2022 14:01:11 ----- 9ZuE4Z6nEhdJm1-F0H52xA
+29.11.2022 14:01:14 ----- Disconnected  9ZuE4Z6nEhdJm1-F0H52xA
+29.11.2022 14:01:18 ----- WVyf3BJeQUzsdyawmiYzHw
+29.11.2022 14:01:59 ----- Disconnected  WVyf3BJeQUzsdyawmiYzHw
+29.11.2022 14:02:13 ----- LRQ5g-5D1d4TE0RtNT6AJA
+29.11.2022 14:05:03 ----- WeatherHostedErrorЗапрошенное имя верно, но данные запрошенного типа не найдены. (weather.visualcrossing.com:443)
+29.11.2022 14:05:11 ----- 5B0hKmrraezCQ3QgSdn9hA
+29.11.2022 14:05:15 ----- Disconnected  5B0hKmrraezCQ3QgSdn9hA
+29.11.2022 14:05:26 ----- ZfvSoNGL8Fc0vzQg5uPHGA
+29.11.2022 14:05:29 ----- Disconnected  ZfvSoNGL8Fc0vzQg5uPHGA
+29.11.2022 14:05:33 ----- P1iBBCC-1zEbJHLqBWzC-w
+29.11.2022 14:05:53 ----- Disconnected  P1iBBCC-1zEbJHLqBWzC-w
+29.11.2022 14:07:45 ----- -Sf4PpNGaJ0SeoZUGt8DaQ
+29.11.2022 14:07:49 ----- Disconnected  -Sf4PpNGaJ0SeoZUGt8DaQ
+29.11.2022 14:08:04 ----- 3iO0UskDTl3SzeR2fhtfcw
+29.11.2022 14:09:27 ----- Disconnected  3iO0UskDTl3SzeR2fhtfcw
+29.11.2022 14:09:27 ----- UEXJ0qcKA1EuyIYsyMJhxA
+29.11.2022 14:11:37 ----- w_-Un3s6w1kemJY_HyMlPQ
+29.11.2022 14:11:38 ----- Disconnected  w_-Un3s6w1kemJY_HyMlPQ
+29.11.2022 14:11:43 ----- P6NgwuKabRgl5VoMmAmnSg
+29.11.2022 14:11:47 ----- Disconnected  P6NgwuKabRgl5VoMmAmnSg
+29.11.2022 14:11:52 ----- tpdSNnaEjjBQ3hyjq5m2YA
+29.11.2022 14:14:34 ----- QtjW894ulFMK4NohQn2SkQ
+29.11.2022 14:14:36 ----- Disconnected  QtjW894ulFMK4NohQn2SkQ
+29.11.2022 14:14:41 ----- hMLtRyMexS1OMig0HIgVtA
+29.11.2022 14:17:40 ----- H7ME7ufoUpZlJrDxJ30Mhw
+29.11.2022 14:17:41 ----- Disconnected  H7ME7ufoUpZlJrDxJ30Mhw
+29.11.2022 14:17:46 ----- cq9TO9W4PBPePUPsXfOhNg
+29.11.2022 14:20:02 ----- MainSheduleErrorПопытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера. [::ffff:31.31.198.188]:443 (oksei.ru:443)
+29.11.2022 14:20:24 ----- HcJXDUgasM4JrhdkxIwndg
+29.11.2022 14:20:28 ----- Disconnected  HcJXDUgasM4JrhdkxIwndg
+29.11.2022 14:21:38 ----- WeatherHostedErrorЭтот хост неизвестен. (weather.visualcrossing.com:443)
+29.11.2022 14:21:43 ----- YBkuXNlClmYe8_7euIph8w
+29.11.2022 14:21:47 ----- Disconnected  YBkuXNlClmYe8_7euIph8w
+29.11.2022 14:21:56 ----- lb1at1s2BCdopkBmOylSVg
+29.11.2022 14:23:27 ----- MainSheduleErrorПопытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера. [::ffff:31.31.198.188]:443 (oksei.ru:443)
+29.11.2022 14:24:51 ----- 6KRvFLTS4qRmES7JHT3JOw
+29.11.2022 14:24:53 ----- Disconnected  6KRvFLTS4qRmES7JHT3JOw
+29.11.2022 14:24:57 ----- d5H3LSEdprZqGl-yMkKhTw
+29.11.2022 14:25:56 ----- Disconnected  d5H3LSEdprZqGl-yMkKhTw
+29.11.2022 14:25:56 ----- tiw7-ATOdgVy5lJ53jwH4w
+29.11.2022 14:32:11 ----- DiT7adbhWW1L3GCFopEB0g
+29.11.2022 14:32:13 ----- Disconnected  DiT7adbhWW1L3GCFopEB0g
+29.11.2022 14:32:25 ----- 5Qe5bpN20s7ftdYv2wAJDw
+29.11.2022 14:34:06 ----- Disconnected  5Qe5bpN20s7ftdYv2wAJDw
+29.11.2022 14:34:06 ----- EynRMwYWYTVZV0EevoLaRw
+29.11.2022 14:36:35 ----- Disconnected  EynRMwYWYTVZV0EevoLaRw
+29.11.2022 14:36:35 ----- C8Ep2Nzpla29AUr09KzFVQ
+29.11.2022 14:37:21 ----- WeatherHostedErrorЭтот хост неизвестен. (weather.visualcrossing.com:443)
+29.11.2022 14:37:30 ----- 22cA-_X57CD30aLV3ddKIg
+29.11.2022 14:37:41 ----- Disconnected  22cA-_X57CD30aLV3ddKIg
+29.11.2022 14:37:45 ----- VNwrhXkCm6ikrl0X10Ff2w
+29.11.2022 14:38:01 ----- Disconnected  VNwrhXkCm6ikrl0X10Ff2w
+29.11.2022 14:38:04 ----- I7RsBvaXthN0_zgofZTxMg
+29.11.2022 14:40:48 ----- 436OrdF-iUW-bNVqhWzCUw
+29.11.2022 14:40:50 ----- Disconnected  436OrdF-iUW-bNVqhWzCUw
+29.11.2022 14:41:56 ----- _abOwoGDyCPlZSCflPGB9w
+29.11.2022 14:42:03 ----- Disconnected  _abOwoGDyCPlZSCflPGB9w
+29.11.2022 14:43:07 ----- mH8Zl75DCv2B-fvL-qm73w
+29.11.2022 14:43:10 ----- Disconnected  mH8Zl75DCv2B-fvL-qm73w
+29.11.2022 14:43:15 ----- CC4OBRlwslqMTaL4qYYqSw
+29.11.2022 14:46:40 ----- _Mi5odRGD8mFprWEg4WW0w
+29.11.2022 14:46:44 ----- Disconnected  _Mi5odRGD8mFprWEg4WW0w
+29.11.2022 14:46:55 ----- 5xTaTJlhbSEcCV0Zz8NUrQ
+29.11.2022 14:47:22 ----- Disconnected  5xTaTJlhbSEcCV0Zz8NUrQ
+29.11.2022 14:47:27 ----- I3wV4s6-APammrSFYgtOHA
+29.11.2022 14:56:12 ----- dv_kcDpQL5DAp8QgVrgzOg
+29.11.2022 14:56:15 ----- Disconnected  dv_kcDpQL5DAp8QgVrgzOg
+29.11.2022 14:56:27 ----- Yo8lg4pBycw4-dxlIJJxZg
+29.11.2022 14:57:28 ----- eSiQOy-bdY87Lsx1KUAKlQ
+29.11.2022 14:57:32 ----- Disconnected  eSiQOy-bdY87Lsx1KUAKlQ
+29.11.2022 14:58:32 ----- 72rvc8zPgbGuW4qMiVIG5Q
+29.11.2022 14:58:38 ----- Disconnected  72rvc8zPgbGuW4qMiVIG5Q
+29.11.2022 14:59:43 ----- UtUEuN2lzBfacjLIpQXLPw
+29.11.2022 14:59:47 ----- Disconnected  UtUEuN2lzBfacjLIpQXLPw
+29.11.2022 15:00:36 ----- vm9cWwXCkI6qphh11BrnLQ
+29.11.2022 15:00:38 ----- Disconnected  vm9cWwXCkI6qphh11BrnLQ
+29.11.2022 15:00:42 ----- u2pSGuug6MqmAMaKJ8UX_Q
+29.11.2022 15:02:32 ----- Disconnected  u2pSGuug6MqmAMaKJ8UX_Q
+29.11.2022 19:17:14 ----- ANW6h5OVm-6NfWRGnnzGFw
+29.11.2022 19:17:23 ----- Disconnected  ANW6h5OVm-6NfWRGnnzGFw
+29.11.2022 19:17:26 ----- GG8FNU8KFFcIazoibEyG7w
+29.11.2022 15:17:47 ----- Disconnected  GG8FNU8KFFcIazoibEyG7w
+29.11.2022 15:17:51 ----- dIUq_1dRPtUXUs1Bjg4QZQ
+29.11.2022 15:19:52 ----- Iglry9TZDFZ-mGuG-ru4pQ
+29.11.2022 15:19:59 ----- Disconnected  Iglry9TZDFZ-mGuG-ru4pQ
+29.11.2022 15:20:03 ----- yQbjQZZHRdcBeNX-aOGmzA
+29.11.2022 15:20:11 ----- Disconnected  yQbjQZZHRdcBeNX-aOGmzA
+29.11.2022 15:20:17 ----- Z4hZYBTZiFa76-7JyqSKHw
+29.11.2022 15:20:34 ----- Disconnected  Z4hZYBTZiFa76-7JyqSKHw
+29.11.2022 15:35:39 ----- TYKfZ7-onW1OldFzLnbwIA
+29.11.2022 15:35:42 ----- Disconnected  TYKfZ7-onW1OldFzLnbwIA
+29.11.2022 15:35:45 ----- ONNU1G63FWFo99zTOuALFg
+29.11.2022 15:39:14 ----- 19zFgiv06LdYPlNW4UdMmg
+29.11.2022 15:39:23 ----- Disconnected  19zFgiv06LdYPlNW4UdMmg
+29.11.2022 15:39:26 ----- xJwgMkmj0B0RhdyH27SNVg
+29.11.2022 15:41:26 ----- dH9aKPdYyos-wbiMjUsrYA
+29.11.2022 15:41:39 ----- Disconnected  dH9aKPdYyos-wbiMjUsrYA
+29.11.2022 15:41:43 ----- RrCaQPv4oFCDVczNTKy6uA
+29.11.2022 15:43:35 ----- pq2PexEoUbzIaXYkfIWBag
+29.11.2022 15:43:37 ----- Disconnected  pq2PexEoUbzIaXYkfIWBag
+29.11.2022 15:43:40 ----- 6Tx6eE1_sja7QnOKbab5og
+29.11.2022 15:43:58 ----- Disconnected  6Tx6eE1_sja7QnOKbab5og
+29.11.2022 15:49:25 ----- _gZDY7JNEFVzJ6xGzh4Kpg
+29.11.2022 15:49:28 ----- Disconnected  _gZDY7JNEFVzJ6xGzh4Kpg
+29.11.2022 15:49:31 ----- X-V1AFndaaeSiWZrWtznwg
+29.11.2022 15:55:54 ----- iEWkkHnMagMJtoDNEcj2eQ
+29.11.2022 15:55:56 ----- Disconnected  iEWkkHnMagMJtoDNEcj2eQ
+29.11.2022 15:55:59 ----- _N3GRSVF4_qt00kavuoNjg
+29.11.2022 15:56:03 ----- Disconnected  _N3GRSVF4_qt00kavuoNjg
+29.11.2022 15:56:06 ----- Qbmq9YI1FHsZrPlziI4V7Q
+29.11.2022 16:00:54 ----- cuWZxGxS41SmUE-UXdqQUA
+29.11.2022 16:01:02 ----- Disconnected  cuWZxGxS41SmUE-UXdqQUA
+29.11.2022 16:01:06 ----- 1efjtMFDlVPHW6N9qWMpCQ
+29.11.2022 16:02:56 ----- Disconnected  1efjtMFDlVPHW6N9qWMpCQ
+29.11.2022 16:02:59 ----- _UBYCCs0ow5y5vc75qleJA
+29.11.2022 16:04:09 ----- mSqsU7PZKp_Sqb_nJPj28g
+29.11.2022 16:04:10 ----- Disconnected  mSqsU7PZKp_Sqb_nJPj28g
+29.11.2022 16:04:13 ----- 5Wv9AkivK-zy8dArvAmUqA
+29.11.2022 16:04:34 ----- Disconnected  5Wv9AkivK-zy8dArvAmUqA
+29.11.2022 16:04:37 ----- 3hGR6wfnfwQtrEFt5HVGSQ
+29.11.2022 16:05:24 ----- Disconnected  3hGR6wfnfwQtrEFt5HVGSQ
+29.11.2022 16:06:07 ----- xJrluey6OmqiypCHIJDIjw
+29.11.2022 16:06:11 ----- Disconnected  xJrluey6OmqiypCHIJDIjw
+29.11.2022 16:06:14 ----- xi65psPZKkCcuuIqAogjpg
+29.11.2022 16:07:15 ----- OemNOFqAc3b1VdPKJur2Lg
+29.11.2022 16:07:26 ----- Disconnected  OemNOFqAc3b1VdPKJur2Lg
+29.11.2022 16:07:29 ----- tvO5ntmXjlQnx-xs5t--4g
+29.11.2022 16:07:32 ----- Disconnected  tvO5ntmXjlQnx-xs5t--4g
+29.11.2022 16:07:36 ----- eq8iA9QLV9rbodW08weFAg
+29.11.2022 16:09:12 ----- Disconnected  eq8iA9QLV9rbodW08weFAg
+29.11.2022 16:09:58 ----- TOMDnU8Rtfmwx-I-PEnNhg
+29.11.2022 16:10:03 ----- Disconnected  TOMDnU8Rtfmwx-I-PEnNhg
+29.11.2022 16:10:06 ----- HakOLIzdr5eEnxeEjofEoA
+29.11.2022 16:10:15 ----- Disconnected  HakOLIzdr5eEnxeEjofEoA
+29.11.2022 16:10:40 ----- tbWX2SxboLI1mIe189ySpg
+29.11.2022 16:10:41 ----- Disconnected  tbWX2SxboLI1mIe189ySpg
+29.11.2022 16:10:45 ----- KjZ1MnxftrmKyQ59i6Ulgg
+29.11.2022 16:11:21 ----- Disconnected  KjZ1MnxftrmKyQ59i6Ulgg
+29.11.2022 16:12:49 ----- a89J3YpYTquTe0BsdtohWw
+29.11.2022 16:14:36 ----- -4Scroty7Nzyc4uTWpxOeg
+29.11.2022 16:14:50 ----- Disconnected  -4Scroty7Nzyc4uTWpxOeg
+29.11.2022 16:14:52 ----- ppkzHWiexydyJpPT1tM0GA
+29.11.2022 16:17:15 ----- Disconnected  ppkzHWiexydyJpPT1tM0GA
+29.11.2022 16:18:54 ----- OxN9V00GAVOJEaMAbf47Rw
+29.11.2022 16:19:00 ----- Disconnected  OxN9V00GAVOJEaMAbf47Rw
+29.11.2022 16:19:03 ----- UjY0l-ArhWMDH7XW5O9rsw
+29.11.2022 16:19:04 ----- Disconnected  UjY0l-ArhWMDH7XW5O9rsw
+29.11.2022 16:19:07 ----- WHQ12sskLn0XqZjhTbc3ZQ
+29.11.2022 16:21:13 ----- N04q98YJNc5iFtCURxdU_w
+29.11.2022 16:21:14 ----- Disconnected  N04q98YJNc5iFtCURxdU_w
+29.11.2022 16:21:17 ----- QGK4EHWGqxnQalxd4KHLsw
+29.11.2022 16:21:19 ----- Disconnected  QGK4EHWGqxnQalxd4KHLsw
+29.11.2022 16:21:22 ----- pZQUe2YxtQRRW32oPf4Rkw
+29.11.2022 16:27:42 ----- Disconnected  pZQUe2YxtQRRW32oPf4Rkw
+29.11.2022 16:27:43 ----- zb_7ybfsYdZKK7Ql7du-RA
+29.11.2022 16:32:20 ----- rPN8bKKKzGernpaeAKeoew
+29.11.2022 16:32:24 ----- Disconnected  rPN8bKKKzGernpaeAKeoew
+29.11.2022 16:32:27 ----- UgtM_3MU97lVqRFe2ak4-w
+29.11.2022 16:36:01 ----- Disconnected  UgtM_3MU97lVqRFe2ak4-w
+29.11.2022 16:36:30 ----- ePR8pvdHDS8JngJ1uh9Ugw
+29.11.2022 16:36:32 ----- Disconnected  ePR8pvdHDS8JngJ1uh9Ugw
+29.11.2022 16:36:35 ----- uqvWP9QDekNNbzme5_jxSQ
+29.11.2022 16:36:42 ----- Disconnected  uqvWP9QDekNNbzme5_jxSQ
+29.11.2022 16:36:45 ----- BGJhSrFt-SNPKTlsR7MG0Q
+29.11.2022 16:52:38 ----- Disconnected  BGJhSrFt-SNPKTlsR7MG0Q
+29.11.2022 16:54:38 ----- 5Xynq5BT7yubo-W84Yf5pA
+29.11.2022 16:54:40 ----- Disconnected  5Xynq5BT7yubo-W84Yf5pA
+29.11.2022 16:54:42 ----- 7BS4igiGE_NSDD6Ii7dA0g
+29.11.2022 16:56:47 ----- Disconnected  7BS4igiGE_NSDD6Ii7dA0g
+29.11.2022 16:57:10 ----- 4pXs-Fx8LRhN3srI6CxFAQ
+29.11.2022 16:57:12 ----- Disconnected  4pXs-Fx8LRhN3srI6CxFAQ
+29.11.2022 16:57:14 ----- q5st_u6gOmHuxqoXLThcJw
+29.11.2022 16:57:25 ----- Disconnected  q5st_u6gOmHuxqoXLThcJw
+29.11.2022 16:57:27 ----- LcDtexksvRdVOnH-k1k3Bw
+29.11.2022 16:58:25 ----- Disconnected  LcDtexksvRdVOnH-k1k3Bw
+29.11.2022 16:59:13 ----- iIj2tcJ_xVLzoZ30a1Gxpw
+29.11.2022 16:59:15 ----- Disconnected  iIj2tcJ_xVLzoZ30a1Gxpw
+29.11.2022 16:59:17 ----- XXOD-0gRYwALqFVwkB5V6A
+29.11.2022 16:59:28 ----- Disconnected  XXOD-0gRYwALqFVwkB5V6A
+29.11.2022 16:59:31 ----- Hdi0rE6Jn6r-OgiWgKsxNg
+29.11.2022 17:01:22 ----- Disconnected  Hdi0rE6Jn6r-OgiWgKsxNg
+29.11.2022 17:02:25 ----- aqTtbwAVzrb51zhKmWJZvQ
+29.11.2022 17:02:35 ----- Disconnected  aqTtbwAVzrb51zhKmWJZvQ
+29.11.2022 17:02:37 ----- rkCf6jGapU47SyKiV4qWsw
+29.11.2022 17:02:44 ----- Disconnected  rkCf6jGapU47SyKiV4qWsw
+29.11.2022 17:02:46 ----- cYH3bHPHpsUaeFsx9KLBLg
+29.11.2022 17:06:12 ----- Disconnected  cYH3bHPHpsUaeFsx9KLBLg
+29.11.2022 17:07:14 ----- 2UrG6Nh76YuhUyZQS0_hlw
+29.11.2022 17:07:23 ----- Disconnected  2UrG6Nh76YuhUyZQS0_hlw
+29.11.2022 17:07:26 ----- -IxsPpBShgJna-6Oc2Y0XA
+29.11.2022 17:07:36 ----- Disconnected  -IxsPpBShgJna-6Oc2Y0XA
+29.11.2022 17:07:39 ----- qQQlvperUUe-h0OZgPisQA
+29.11.2022 17:10:03 ----- Disconnected  qQQlvperUUe-h0OZgPisQA
+29.11.2022 17:10:03 ----- QK_NNvl2volzT_ZNVpvEfQ
+29.11.2022 17:11:53 ----- ysrmwhDuMIuEcBSftOCZeg
+29.11.2022 17:12:01 ----- Disconnected  ysrmwhDuMIuEcBSftOCZeg
+29.11.2022 17:12:03 ----- mL7mYwYuOPIT9T8GeasCZg
+29.11.2022 17:12:05 ----- Disconnected  mL7mYwYuOPIT9T8GeasCZg
+29.11.2022 17:12:08 ----- peG0muWlZh77Tvtv2RmwOQ
+29.11.2022 17:12:33 ----- Disconnected  peG0muWlZh77Tvtv2RmwOQ
+29.11.2022 17:14:23 ----- 86dLW8qdn7GPTWLjZPrO3A
+29.11.2022 17:14:29 ----- Disconnected  86dLW8qdn7GPTWLjZPrO3A
+29.11.2022 17:14:32 ----- LfmQUtL8a607iJp8ULfzMg
+29.11.2022 17:15:31 ----- Disconnected  LfmQUtL8a607iJp8ULfzMg
+29.11.2022 17:16:35 ----- X1O7FaybCxe_EjxMwhDfAA
+29.11.2022 17:16:37 ----- Disconnected  X1O7FaybCxe_EjxMwhDfAA
+29.11.2022 17:16:39 ----- 7PEshDUcappEUjUjaKdWCA
+29.11.2022 17:17:21 ----- Disconnected  7PEshDUcappEUjUjaKdWCA
+29.11.2022 17:17:24 ----- qpCWgtrH86KQJ4Ohi7o37w
+29.11.2022 17:17:32 ----- Disconnected  qpCWgtrH86KQJ4Ohi7o37w
+29.11.2022 17:18:11 ----- l_NE4V5XzsX47y6gK7yWtg
+29.11.2022 17:18:18 ----- Disconnected  l_NE4V5XzsX47y6gK7yWtg
+29.11.2022 17:18:21 ----- h9BxU1NsyOtOP1f0fSzUrA
+29.11.2022 17:18:39 ----- Disconnected  h9BxU1NsyOtOP1f0fSzUrA
+29.11.2022 17:18:42 ----- qKOMXwrXwLyBV611fwDa2A
+29.11.2022 17:19:15 ----- Disconnected  qKOMXwrXwLyBV611fwDa2A
+29.11.2022 17:21:19 ----- Oeo6D_xpBMWsjgQ8XxPu_A
+29.11.2022 17:21:21 ----- Disconnected  Oeo6D_xpBMWsjgQ8XxPu_A
+29.11.2022 17:21:27 ----- XO9dlU9zIDWACFLswRPWMA
+29.11.2022 17:25:04 ----- Disconnected  XO9dlU9zIDWACFLswRPWMA
+29.11.2022 17:25:26 ----- VpVcnETGD51dRolJIKUtRA
+29.11.2022 17:25:31 ----- Disconnected  VpVcnETGD51dRolJIKUtRA
+29.11.2022 17:25:34 ----- iRqUl2Ji0WsFj8C9qtpinQ
+29.11.2022 17:25:47 ----- Disconnected  iRqUl2Ji0WsFj8C9qtpinQ
+29.11.2022 17:25:49 ----- hYSXOLVaPPLF5qdGS2KQhA
+29.11.2022 17:33:27 ----- 4LngJvKklS0JmTns-pEQPQ
+29.11.2022 17:33:28 ----- Disconnected  4LngJvKklS0JmTns-pEQPQ
+29.11.2022 17:33:30 ----- Oifd9YTTthv7kKB7gPEVhA
+29.11.2022 17:33:36 ----- Disconnected  Oifd9YTTthv7kKB7gPEVhA
+29.11.2022 17:36:20 ----- lYb-PNTl3dQ2c1kcfcaEhw
+29.11.2022 17:36:33 ----- Disconnected  lYb-PNTl3dQ2c1kcfcaEhw
+29.11.2022 17:36:36 ----- rMPYL-r7AFhQhINd8T8yHw
+29.11.2022 17:36:56 ----- Disconnected  rMPYL-r7AFhQhINd8T8yHw
+29.11.2022 17:36:58 ----- W6IVVCc1lg5nyMIH77sqcw
+29.11.2022 17:39:38 ----- Disconnected  W6IVVCc1lg5nyMIH77sqcw
+29.11.2022 17:39:38 ----- RcT-bmmdYb1sIXgDDZg_Ng
+29.11.2022 17:41:10 ----- dCJVYcWCSmlzbI36ziUBtg
+29.11.2022 17:41:14 ----- Disconnected  dCJVYcWCSmlzbI36ziUBtg
+29.11.2022 17:41:17 ----- BnZZK4eX9Z7Gv4Yet6mg8A
+29.11.2022 17:43:07 ----- DPSOK19rtashTKxI7lkodA
+29.11.2022 17:43:08 ----- Disconnected  DPSOK19rtashTKxI7lkodA
+29.11.2022 17:43:11 ----- rzKPOb3i0RaeVJV6xrwG8w
+29.11.2022 17:47:21 ----- JXMFxem86J_475HwPiuCsw
+29.11.2022 17:47:30 ----- Disconnected  JXMFxem86J_475HwPiuCsw
+29.11.2022 17:47:33 ----- 34xqx2dYX5WIz-9r89gT6g
+29.11.2022 17:47:43 ----- Disconnected  34xqx2dYX5WIz-9r89gT6g
+29.11.2022 17:47:46 ----- bv3SJRz-3P76oAzHX5HYjA
+29.11.2022 17:56:47 ----- Wj3EEjMkIqDHitkGBubUmw
+29.11.2022 17:57:05 ----- Disconnected  Wj3EEjMkIqDHitkGBubUmw
+29.11.2022 17:57:08 ----- WGKbN7HjAAOZRFnu05bnZA
+29.11.2022 17:57:17 ----- Disconnected  WGKbN7HjAAOZRFnu05bnZA
+29.11.2022 17:57:19 ----- DtNeiIZE35sswC5t-wW3FQ
+29.11.2022 17:58:05 ----- OFr0nDPUzU40cvNohNhV0Q
+29.11.2022 17:58:10 ----- Disconnected  OFr0nDPUzU40cvNohNhV0Q
+29.11.2022 17:58:12 ----- zc9GA8cmn19NpaBwTfkznQ
+29.11.2022 18:01:46 ----- RDr_-T_nqjwZpT6jcC2aDw
+29.11.2022 18:01:49 ----- Disconnected  RDr_-T_nqjwZpT6jcC2aDw
+29.11.2022 18:01:51 ----- VxSEqJGnVqAUU2HUVTspoA
+29.11.2022 18:02:02 ----- Disconnected  VxSEqJGnVqAUU2HUVTspoA
+29.11.2022 18:02:04 ----- pkOqj-0m6ivCFAwYtxyVig
+29.11.2022 18:02:11 ----- Disconnected  pkOqj-0m6ivCFAwYtxyVig
+29.11.2022 18:04:26 ----- AEvfb1zlvD5OOfBB_F3Xgw
+29.11.2022 18:04:29 ----- Disconnected  AEvfb1zlvD5OOfBB_F3Xgw
+29.11.2022 18:04:31 ----- icjxB1tsVwzg8HnhzT0KAA
+29.11.2022 18:09:50 ----- Disconnected  icjxB1tsVwzg8HnhzT0KAA
+29.11.2022 18:09:53 ----- CoFxRomkXq8XwaVAHQlxBA
+29.11.2022 18:10:07 ----- Disconnected  CoFxRomkXq8XwaVAHQlxBA
+29.11.2022 18:10:47 ----- CwnHTivxhx7LUq5yPZheUw
+29.11.2022 18:10:51 ----- Disconnected  CwnHTivxhx7LUq5yPZheUw
+29.11.2022 18:10:54 ----- Cfz_ZmHQPJeSwRg2LWllWA
+29.11.2022 18:11:12 ----- Disconnected  Cfz_ZmHQPJeSwRg2LWllWA
+29.11.2022 18:11:14 ----- j5BIv7qaZ-cEH91CA96qqA
+29.11.2022 18:17:24 ----- kXymvBpQQHedad6MzlC-kA
+29.11.2022 18:17:39 ----- Disconnected  kXymvBpQQHedad6MzlC-kA
+29.11.2022 18:17:41 ----- T0ljQ_gPnQr3exsSu2dj7g
+29.11.2022 18:17:48 ----- Disconnected  T0ljQ_gPnQr3exsSu2dj7g
+29.11.2022 18:17:51 ----- Myudyta-aEsbHCWwCSjAww
+29.11.2022 18:17:55 ----- Disconnected  Myudyta-aEsbHCWwCSjAww
+29.11.2022 18:19:35 ----- g1YfMCPGUos0UmkIT7k7ow
+29.11.2022 18:19:36 ----- Disconnected  g1YfMCPGUos0UmkIT7k7ow
+29.11.2022 18:19:39 ----- IzIJravgXjnqHGT-v4znCw
+29.11.2022 18:19:45 ----- Disconnected  IzIJravgXjnqHGT-v4znCw
+29.11.2022 18:19:48 ----- C6bA9SvG1KvRB7gjKyv0Yg
+29.11.2022 18:28:08 ----- wYdP5iIg01o47I6yQSW7wg
+29.11.2022 18:28:24 ----- Disconnected  wYdP5iIg01o47I6yQSW7wg
+29.11.2022 18:28:27 ----- OsfKDLi14xA1gGnvilB6yA
+29.11.2022 18:30:52 ----- Disconnected  OsfKDLi14xA1gGnvilB6yA
+29.11.2022 18:30:53 ----- Rcmpl1A0NJ8wDozcOPVbNA
+29.11.2022 18:37:01 ----- GxlhmDgKG3sh0Wrz1Yx0Dg
+29.11.2022 18:37:05 ----- Disconnected  GxlhmDgKG3sh0Wrz1Yx0Dg
+29.11.2022 18:37:07 ----- hEE8ylxID_r5eEsAE-veYQ
+29.11.2022 18:37:52 ----- Disconnected  hEE8ylxID_r5eEsAE-veYQ
+29.11.2022 18:37:55 ----- Hk9rQBdRGn4At28P9cnGEg
+29.11.2022 18:38:42 ----- I4ivsiP5G6n4nDgk36dK7w
+29.11.2022 18:38:53 ----- Disconnected  I4ivsiP5G6n4nDgk36dK7w
+29.11.2022 18:38:55 ----- DFZKbLmzqMcoawzGCPx0Iw
+29.11.2022 18:39:23 ----- Disconnected  DFZKbLmzqMcoawzGCPx0Iw
+29.11.2022 18:39:45 ----- 5n-qTasWv-5f90JP6deE0w
+29.11.2022 18:39:47 ----- Disconnected  5n-qTasWv-5f90JP6deE0w
+29.11.2022 18:39:52 ----- luQkXZSalZgBAzzne_-wSg
+29.11.2022 18:45:37 ----- 4OaBsJ_2PGoxYkZObHbeLw
+29.11.2022 18:45:55 ----- Disconnected  4OaBsJ_2PGoxYkZObHbeLw
+29.11.2022 18:47:06 ----- VKmwF3SuEGGqeqaOkQYvGA
+29.11.2022 18:47:07 ----- Disconnected  VKmwF3SuEGGqeqaOkQYvGA
+29.11.2022 18:47:39 ----- cFQRFnGVEO5y4yG-myFtlg
+29.11.2022 18:47:41 ----- Disconnected  cFQRFnGVEO5y4yG-myFtlg
+29.11.2022 15:47:54 ----- CKx82SGTwg0dIv1nH8cHMw
+29.11.2022 15:47:57 ----- Disconnected  CKx82SGTwg0dIv1nH8cHMw
+29.11.2022 15:47:59 ----- hB9ZzAjX0e8bYH6Vv_gO5A
+29.11.2022 15:50:55 ----- Disconnected  hB9ZzAjX0e8bYH6Vv_gO5A
+29.11.2022 15:52:04 ----- 3kpr7vlZoGUbXFL383vwUQ
+29.11.2022 15:52:07 ----- Disconnected  3kpr7vlZoGUbXFL383vwUQ
+29.11.2022 15:52:10 ----- 5l77tDJN3MRRKccsH9HN2w
+29.11.2022 15:52:24 ----- Disconnected  5l77tDJN3MRRKccsH9HN2w
+29.11.2022 15:53:18 ----- rY6gjL63VwV_yreaX8wW0g
+29.11.2022 15:53:30 ----- Disconnected  rY6gjL63VwV_yreaX8wW0g
+29.11.2022 15:53:32 ----- 1GZhA4ZSVtLsQWKj-9r9_g
+29.11.2022 15:53:33 ----- Disconnected  1GZhA4ZSVtLsQWKj-9r9_g
+29.11.2022 15:53:36 ----- Z2iUbLnubi8OEkxsjAgAjw
+29.11.2022 15:54:07 ----- Disconnected  Z2iUbLnubi8OEkxsjAgAjw
+29.11.2022 15:54:10 ----- loJ-zAE_quc5mctEKQpeNQ
+29.11.2022 15:55:37 ----- rMEt3XTq0Trdn-XTkw3FXA
+29.11.2022 15:55:40 ----- Disconnected  rMEt3XTq0Trdn-XTkw3FXA
+29.11.2022 15:55:43 ----- Vzivkse8Bx1vbqqZKNKing
+29.11.2022 15:56:18 ----- Disconnected  Vzivkse8Bx1vbqqZKNKing
+29.11.2022 16:00:10 ----- HiEhSBZYdS96t_qOiy05Ag
+29.11.2022 16:00:12 ----- Disconnected  HiEhSBZYdS96t_qOiy05Ag
+29.11.2022 16:00:15 ----- oGRdAa5LIbLb45Oy0rWNLw
+29.11.2022 16:00:22 ----- Disconnected  oGRdAa5LIbLb45Oy0rWNLw
+29.11.2022 16:00:25 ----- BdJATD-6hUGNmhRIeeS5_w
+29.11.2022 16:02:39 ----- r3AzOlle2y8dXPZEpaTucQ
+29.11.2022 16:02:41 ----- Disconnected  r3AzOlle2y8dXPZEpaTucQ
+29.11.2022 16:02:44 ----- URa1N2qiHq_aF1lcquYjKQ
+29.11.2022 16:04:38 ----- 01YZWhlBoQVeto_HQ3SkyA
+29.11.2022 16:04:52 ----- Disconnected  01YZWhlBoQVeto_HQ3SkyA
+29.11.2022 16:04:55 ----- qNCHBgZZiJnnsTDJeZicbA
+29.11.2022 16:06:09 ----- Disconnected  qNCHBgZZiJnnsTDJeZicbA
+29.11.2022 16:06:22 ----- s0VeiMs1iskmngof7dGJcA
+29.11.2022 16:06:38 ----- Disconnected  s0VeiMs1iskmngof7dGJcA
+29.11.2022 16:17:45 ----- _mKhPPbWlwhbableMK3hXg
+29.11.2022 16:17:47 ----- Disconnected  _mKhPPbWlwhbableMK3hXg
+29.11.2022 16:17:49 ----- 8PzE6DsuVIdpW2D379Pp4w
+29.11.2022 16:18:40 ----- Disconnected  8PzE6DsuVIdpW2D379Pp4w
+30.11.2022 9:29:10 ----- 2MFSKaF5FJhF2bVm1vBV5w
+30.11.2022 9:29:12 ----- Disconnected  2MFSKaF5FJhF2bVm1vBV5w
+30.11.2022 9:29:18 ----- Hqb5blGltvFZhI4W4XRRDw
+30.11.2022 9:33:29 ----- WeatherHostedErrorЭтот хост неизвестен. (weather.visualcrossing.com:443)
+30.11.2022 9:33:40 ----- eOLdrNR-tbNB_uCwEhbe-g
+30.11.2022 9:33:41 ----- Disconnected  eOLdrNR-tbNB_uCwEhbe-g
+30.11.2022 9:33:46 ----- BUC3YZR1HDlf7v9ha971Uw
+30.11.2022 9:33:51 ----- Disconnected  BUC3YZR1HDlf7v9ha971Uw
+30.11.2022 9:35:54 ----- KA8IMKa-G9TKP_1_zVPfzQ
+30.11.2022 9:35:57 ----- Disconnected  KA8IMKa-G9TKP_1_zVPfzQ
+30.11.2022 9:36:06 ----- KCDLPy7svt20Kk8BsO4MPw
+30.11.2022 9:38:21 ----- Disconnected  KCDLPy7svt20Kk8BsO4MPw
+30.11.2022 9:38:21 ----- u6bujTCOpgeSRq8CkQ8anw
+30.11.2022 9:45:07 ----- SHQzE2fs2LvMGwlHLOEVWg
+30.11.2022 9:45:12 ----- Disconnected  SHQzE2fs2LvMGwlHLOEVWg
+30.11.2022 9:45:15 ----- A_8Jhlx2QilRSlAahv3ihQ
+30.11.2022 9:45:38 ----- Disconnected  A_8Jhlx2QilRSlAahv3ihQ
+07.12.2022 12:51:27 ----- 3ZaukitSyYUp_W1FIcB4Mw
+07.12.2022 12:51:41 ----- Disconnected  3ZaukitSyYUp_W1FIcB4Mw
+07.12.2022 12:51:44 ----- OgmksJpuIp4wG9PVe4qOOQ
+07.12.2022 12:54:43 ----- Disconnected  OgmksJpuIp4wG9PVe4qOOQ
+07.12.2022 12:54:47 ----- ykftZi9yRcUHFdyzfCva6g
+07.12.2022 14:57:13 ----- Disconnected  ykftZi9yRcUHFdyzfCva6g
+07.12.2022 14:57:13 ----- VBe80Tegd17_Iwq7cB0M6w
+07.12.2022 15:02:29 ----- hpRqqb-LgIlEEKMj2a0fIA
+07.12.2022 15:02:35 ----- Disconnected  hpRqqb-LgIlEEKMj2a0fIA
+07.12.2022 15:02:39 ----- 8SuqGS0yU9WgYStcQWTrCg
+07.12.2022 15:03:15 ----- Disconnected  8SuqGS0yU9WgYStcQWTrCg
+07.12.2022 15:03:18 ----- geKQXK287k-Cc0vIsa_4YQ
+07.12.2022 15:04:10 ----- Disconnected  geKQXK287k-Cc0vIsa_4YQ
+07.12.2022 15:04:13 ----- _1foBnad3ugy5OX7eNJUtA
+07.12.2022 15:12:22 ----- 0eJx7qnVpd5WuBVZBjhyfw
+07.12.2022 15:12:24 ----- Disconnected  0eJx7qnVpd5WuBVZBjhyfw
+07.12.2022 15:12:28 ----- P18MTMeLPLrDpRZ1ke7EBg
+07.12.2022 15:15:46 ----- Disconnected  P18MTMeLPLrDpRZ1ke7EBg
+07.12.2022 15:17:01 ----- -A1SA23P5TKuVQDqH5x4fA
+07.12.2022 15:17:05 ----- Disconnected  -A1SA23P5TKuVQDqH5x4fA
+07.12.2022 15:17:09 ----- Lrs-N2va1mIJ8SD2pvxE8w
+07.12.2022 15:18:40 ----- 9HO3-gBbllqaeDHP_F7vVg
+07.12.2022 15:18:56 ----- Disconnected  9HO3-gBbllqaeDHP_F7vVg
+07.12.2022 15:19:00 ----- f0e4lZpNnQeIZObl6ZwK2Q
+07.12.2022 15:21:17 ----- Disconnected  f0e4lZpNnQeIZObl6ZwK2Q
+07.12.2022 15:21:21 ----- SN0TOkpJDE9C3odPbTikzA
+07.12.2022 15:51:20 ----- Disconnected  SN0TOkpJDE9C3odPbTikzA
+07.12.2022 15:51:23 ----- 3z9GVgPycN7d2LTkuiS0Og
+07.12.2022 15:57:53 ----- f-JvQ8ZrwnxzQTZrlsgDZQ
+07.12.2022 15:57:57 ----- Disconnected  f-JvQ8ZrwnxzQTZrlsgDZQ
+07.12.2022 15:58:02 ----- G51JeAh1M3HqywWgIFMoKw
+07.12.2022 15:58:09 ----- Disconnected  G51JeAh1M3HqywWgIFMoKw
+07.12.2022 15:58:13 ----- zG7mWM7A4t0jvu7Ivfvc3A
+07.12.2022 15:58:16 ----- Disconnected  zG7mWM7A4t0jvu7Ivfvc3A
+07.12.2022 15:58:20 ----- wbIxzrZxJIKT6WbprnqZ_w
+07.12.2022 15:58:29 ----- Disconnected  wbIxzrZxJIKT6WbprnqZ_w
+07.12.2022 15:58:33 ----- g7-nSQGnnEbt8ffahMxw1Q
+07.12.2022 15:58:43 ----- Disconnected  g7-nSQGnnEbt8ffahMxw1Q
+07.12.2022 16:03:22 ----- LM0C1z4s5AXnT4v3JjRcXg
+07.12.2022 16:03:24 ----- Disconnected  LM0C1z4s5AXnT4v3JjRcXg
+07.12.2022 16:03:29 ----- Jw6Zq4s4W3Ydi6HbGG4rQQ
+07.12.2022 16:03:47 ----- Disconnected  Jw6Zq4s4W3Ydi6HbGG4rQQ
+07.12.2022 16:03:54 ----- 8Ko5b_1aSv0Rn3-y1qOGwQ
+07.12.2022 16:04:03 ----- Disconnected  8Ko5b_1aSv0Rn3-y1qOGwQ
+07.12.2022 16:04:07 ----- mZRd3kidjOnFd8KJ56rwEw
+07.12.2022 16:04:14 ----- Disconnected  mZRd3kidjOnFd8KJ56rwEw
+07.12.2022 16:04:18 ----- aKbVKKYAB70q-gjDkM1-bw
+07.12.2022 16:05:18 ----- M1K2fRZINhdBUX43tE53Bg
+07.12.2022 16:05:21 ----- Disconnected  M1K2fRZINhdBUX43tE53Bg
+07.12.2022 16:05:27 ----- 7yc6fOx9UcZzqZq0OmgvFg
+07.12.2022 16:05:40 ----- Disconnected  7yc6fOx9UcZzqZq0OmgvFg
+07.12.2022 16:06:08 ----- BAv_2BzOnVv3r24V2pVTKQ
+07.12.2022 16:06:26 ----- Disconnected  BAv_2BzOnVv3r24V2pVTKQ
+07.12.2022 16:06:29 ----- zhrztbhlljYIE4Q_KBXsKg
+07.12.2022 16:06:35 ----- Disconnected  zhrztbhlljYIE4Q_KBXsKg
+07.12.2022 16:06:38 ----- dNYppqLmMnjMh8QqKY0NkA
+07.12.2022 16:06:48 ----- Disconnected  dNYppqLmMnjMh8QqKY0NkA
+07.12.2022 16:06:52 ----- GrbWz_EqDI1y9_Mhnk-XDA
+07.12.2022 16:08:05 ----- wbEol_G3CBtar122YdzvcA
+07.12.2022 16:08:08 ----- Disconnected  wbEol_G3CBtar122YdzvcA
+07.12.2022 16:08:13 ----- GuWrBZktUPTDVNPk8TDeZg
+07.12.2022 16:10:09 ----- 4mSvwP5Kg7xIP6dnohbkHg
+07.12.2022 16:10:11 ----- Disconnected  4mSvwP5Kg7xIP6dnohbkHg
+07.12.2022 16:10:15 ----- ikXbQ5CLRGd_lWq2uB4hsA
+07.12.2022 16:11:41 ----- i9o6ChzO4jyWu_tLhobgww
+07.12.2022 16:11:52 ----- Disconnected  i9o6ChzO4jyWu_tLhobgww
+07.12.2022 16:11:55 ----- giBxPaNgQDHHxMSMYaF36w
+07.12.2022 16:11:58 ----- Disconnected  giBxPaNgQDHHxMSMYaF36w
+07.12.2022 16:12:04 ----- 8RAZXtrnQTEevaTfAPVP7g
+07.12.2022 16:12:56 ----- UpoGgKaM3ynZUSHclTMRIA
+07.12.2022 16:12:58 ----- Disconnected  UpoGgKaM3ynZUSHclTMRIA
+07.12.2022 16:13:02 ----- lQrN3lAlVKp-qBxHBTYfVQ
+07.12.2022 16:13:09 ----- Disconnected  lQrN3lAlVKp-qBxHBTYfVQ
+07.12.2022 16:13:13 ----- CXg-HFOxsyOjJZp2hfK3Cw
+07.12.2022 16:13:16 ----- Disconnected  CXg-HFOxsyOjJZp2hfK3Cw
+07.12.2022 16:15:23 ----- -khch6zVPaRRh8qMV4bqzQ
+07.12.2022 16:15:25 ----- Disconnected  -khch6zVPaRRh8qMV4bqzQ
+07.12.2022 16:15:29 ----- pW6PExWJqNHRA6zvvauscQ
+07.12.2022 16:15:33 ----- Disconnected  pW6PExWJqNHRA6zvvauscQ
+07.12.2022 16:15:36 ----- 37axoVzwilopgIZsvuvyKg
+07.12.2022 16:15:37 ----- Disconnected  37axoVzwilopgIZsvuvyKg
+07.12.2022 16:15:41 ----- BBN26lkRZP7P6Cnm4gxcoA
+07.12.2022 16:17:34 ----- MW30NzfTgDCf9FvNrH6ARg
+07.12.2022 16:17:46 ----- Disconnected  MW30NzfTgDCf9FvNrH6ARg
+07.12.2022 16:17:49 ----- 3JMJwhShCa2AXQH2BbqSYg
+07.12.2022 16:19:21 ----- ayvTw3AzLCnwvH7QQ5ldaQ
+07.12.2022 16:19:38 ----- Disconnected  ayvTw3AzLCnwvH7QQ5ldaQ
+07.12.2022 16:19:42 ----- v5oJw_gNZvoTrewH9T-4pA
+07.12.2022 16:19:53 ----- Disconnected  v5oJw_gNZvoTrewH9T-4pA
+07.12.2022 16:19:56 ----- TIHUnjI3KaxJ_5PqZzM8Sw
+07.12.2022 16:19:57 ----- Disconnected  TIHUnjI3KaxJ_5PqZzM8Sw
+07.12.2022 16:20:02 ----- Lp3Nh7hx35xvTlApRDYHFA
+07.12.2022 16:20:12 ----- Disconnected  Lp3Nh7hx35xvTlApRDYHFA
+07.12.2022 16:20:39 ----- fU-2x82kpUNmKVAeGZOJ_w
+07.12.2022 16:20:40 ----- Disconnected  fU-2x82kpUNmKVAeGZOJ_w
+07.12.2022 16:20:44 ----- sXXmknjHY0OiwTyHPUCBuQ
+07.12.2022 16:20:50 ----- Disconnected  sXXmknjHY0OiwTyHPUCBuQ
+07.12.2022 16:20:53 ----- rNnw7pIy2i5ZzurkZ9EWtA
+07.12.2022 16:21:12 ----- Disconnected  rNnw7pIy2i5ZzurkZ9EWtA
+07.12.2022 16:21:15 ----- k_0-YWq4JCWtiUdbmhc51Q
+07.12.2022 16:21:52 ----- Disconnected  k_0-YWq4JCWtiUdbmhc51Q
+07.12.2022 16:21:56 ----- yix_XQPXBvHZ6qD6ovSRwQ
+07.12.2022 16:24:07 ----- 4EuFG20QA7ICDzm-xrBnBw
+07.12.2022 16:24:09 ----- Disconnected  4EuFG20QA7ICDzm-xrBnBw
+07.12.2022 16:24:13 ----- l2iFWOs5o-5AI03Nx-JxKA
+07.12.2022 16:24:16 ----- Disconnected  l2iFWOs5o-5AI03Nx-JxKA
+07.12.2022 16:24:19 ----- czschzlr30jT69KUkAh6jA
+07.12.2022 16:25:56 ----- r3gc0G4f5_MGB_FSZWyHbw
+07.12.2022 16:26:05 ----- Disconnected  r3gc0G4f5_MGB_FSZWyHbw
+07.12.2022 16:26:08 ----- QrvuTYmoKg0KSnqjfI86CA
+07.12.2022 16:26:41 ----- 2A_nWOMbEIbR9ofDqaAC0Q
+07.12.2022 16:26:44 ----- Disconnected  2A_nWOMbEIbR9ofDqaAC0Q
+07.12.2022 16:26:47 ----- dyBIZLmyMUQuIFcbDI_lQw
+07.12.2022 16:26:51 ----- Disconnected  dyBIZLmyMUQuIFcbDI_lQw
+07.12.2022 16:36:44 ----- 10O29jrij3s2iEINv9mQ9A
+07.12.2022 16:36:46 ----- Disconnected  10O29jrij3s2iEINv9mQ9A
+07.12.2022 16:36:51 ----- _U9ri1N2rgolAKoY4zZTIw
+07.12.2022 16:36:57 ----- Disconnected  _U9ri1N2rgolAKoY4zZTIw
+12.12.2022 8:41:32 ----- LnySxM0XgH3kBoR0hVn_zg
+12.12.2022 8:41:42 ----- Disconnected  LnySxM0XgH3kBoR0hVn_zg
+12.12.2022 8:41:48 ----- nzrqeyW9hsqU7rK1J3sh9g
+12.12.2022 9:42:14 ----- Disconnected  nzrqeyW9hsqU7rK1J3sh9g
+12.12.2022 9:42:14 ----- XXnjBkEUluXN7SGccL1G5w
+12.12.2022 9:42:15 ----- Disconnected  XXnjBkEUluXN7SGccL1G5w
+12.12.2022 9:42:21 ----- 8YUJrtb_MkuNCHWGri376w
+12.12.2022 9:43:52 ----- Disconnected  8YUJrtb_MkuNCHWGri376w
+12.12.2022 9:43:52 ----- 9_QHE_14aW3gY023dX3Gfg
+12.12.2022 9:44:42 ----- Disconnected  9_QHE_14aW3gY023dX3Gfg
+12.12.2022 9:44:48 ----- K7XwzE6t5Kntdv9kIc11tw
+12.12.2022 9:45:44 ----- Disconnected  K7XwzE6t5Kntdv9kIc11tw
+12.12.2022 9:46:43 ----- WnXIV2QPtlApF9aZdifBgA
+12.12.2022 9:46:49 ----- Disconnected  WnXIV2QPtlApF9aZdifBgA
+12.12.2022 9:46:53 ----- oWY26oVHp9hHTHFxlIXBfA
+12.12.2022 9:49:36 ----- bXKV2Fa3LB9nG24JrwZTcw
+12.12.2022 9:49:39 ----- Disconnected  bXKV2Fa3LB9nG24JrwZTcw
+12.12.2022 9:49:43 ----- C0B1mRQsvVYc2SjEbFOqIg
+12.12.2022 9:50:20 ----- Disconnected  C0B1mRQsvVYc2SjEbFOqIg
+12.12.2022 9:50:24 ----- oNwAHtxClrNy5x781qIfEw
+12.12.2022 9:50:38 ----- Disconnected  oNwAHtxClrNy5x781qIfEw
+12.12.2022 9:50:41 ----- loAaik2Uajr1VQn7oKq0XA
+12.12.2022 10:14:54 ----- Disconnected  loAaik2Uajr1VQn7oKq0XA
+12.12.2022 10:15:01 ----- Q94eBeOMRnjYX0Q1ZwVovQ
+12.12.2022 10:31:05 ----- _LAMM-ZxSYmxwuJuzVDa5w
+12.12.2022 10:31:11 ----- Disconnected  _LAMM-ZxSYmxwuJuzVDa5w
+12.12.2022 10:31:18 ----- SpET6A0DoYl4nt9xdKVhWQ
+12.12.2022 10:43:13 ----- aJIJrYXpACcGLG7to8ww8w
+12.12.2022 10:43:17 ----- Disconnected  aJIJrYXpACcGLG7to8ww8w
+12.12.2022 10:43:22 ----- yNE1s5zYctLX1OWYWnX9fw
+12.12.2022 10:46:28 ----- Disconnected  yNE1s5zYctLX1OWYWnX9fw
+12.12.2022 10:46:28 ----- S8o4GaOQQEGc9vuGb9NTwA
+12.12.2022 10:47:54 ----- wFuMmG8meQYNS2UYJGDVBg
+12.12.2022 10:47:59 ----- Disconnected  wFuMmG8meQYNS2UYJGDVBg
+12.12.2022 10:48:04 ----- F8XIHXiUlboIsO_21iZdLg
+12.12.2022 10:48:47 ----- Disconnected  F8XIHXiUlboIsO_21iZdLg
+12.12.2022 10:48:47 ----- NH5HYjhpwelJr7mluPO5ZA
+12.12.2022 10:57:00 ----- -kALR5ZmZKvT1G5aNTNNqw
+12.12.2022 10:57:05 ----- Disconnected  -kALR5ZmZKvT1G5aNTNNqw
+12.12.2022 10:57:10 ----- b5z2QXh5Hhg_t31GTT09dA
+12.12.2022 11:07:11 ----- KlzVuJBKdxmKv6Aa9kCU4g
+12.12.2022 11:07:18 ----- Disconnected  KlzVuJBKdxmKv6Aa9kCU4g
+12.12.2022 11:07:23 ----- EsRWc98Ac3asd8RmqsOtAQ
+12.12.2022 11:17:44 ----- foE0qpfyXrBzXRIvpjOGyQ
+12.12.2022 11:17:47 ----- Disconnected  foE0qpfyXrBzXRIvpjOGyQ
+12.12.2022 11:17:50 ----- 72pvakABZluoX5VZoRPeVg
+12.12.2022 11:19:08 ----- Disconnected  72pvakABZluoX5VZoRPeVg
+12.12.2022 11:19:08 ----- K6aIqNebQ9cHHNMf9NnG7Q
+12.12.2022 11:19:08 ----- Disconnected  K6aIqNebQ9cHHNMf9NnG7Q
+12.12.2022 12:14:35 ----- -hMzo3eTgD8Vz8q9Mbgjrg
+12.12.2022 12:14:40 ----- Disconnected  -hMzo3eTgD8Vz8q9Mbgjrg
+12.12.2022 12:14:44 ----- BBgz8fpu_cz3D4vtFYArWw
+12.12.2022 12:14:53 ----- Disconnected  BBgz8fpu_cz3D4vtFYArWw
+12.12.2022 12:20:32 ----- p5fEDk7RiYKyFGsylZg7-Q
+12.12.2022 12:24:39 ----- kZQl0Fu7Obg1RZD5bJDP8w
+12.12.2022 12:54:37 ----- Disconnected  kZQl0Fu7Obg1RZD5bJDP8w
+12.12.2022 12:54:41 ----- 21MHpQ3DNXPBb6r27H8z1Q
+12.12.2022 13:24:40 ----- Disconnected  21MHpQ3DNXPBb6r27H8z1Q
+12.12.2022 13:24:44 ----- 7GKmY0U6E9Z8MM0vsrv8fg
+12.12.2022 13:41:24 ----- Disconnected  7GKmY0U6E9Z8MM0vsrv8fg
+12.12.2022 13:41:26 ----- 3x85iWDG5ldGwgCDAMIwiQ
+12.12.2022 13:43:59 ----- 0ALNkef4vCVFz3z3gcjMLA
+12.12.2022 13:51:30 ----- Disconnected  0ALNkef4vCVFz3z3gcjMLA
+12.12.2022 13:51:31 ----- pfaP4wv-VVJrLPFEe8EB1g
+13.12.2022 14:14:05 ----- Disconnected  pfaP4wv-VVJrLPFEe8EB1g
+13.12.2022 14:14:12 ----- CZWqiey2D-HPtl9TSRo0fQ
+13.12.2022 14:44:11 ----- Disconnected  CZWqiey2D-HPtl9TSRo0fQ
+13.12.2022 14:44:15 ----- VAY7FXxdU6V0Q_13QkWfzg
+19.12.2022 10:23:37 ----- oqQx6y_b4fFSBLxGd0yDHQ
+19.12.2022 10:24:13 ----- Disconnected  oqQx6y_b4fFSBLxGd0yDHQ
+19.12.2022 11:45:58 ----- vZERZSm-AlHesQZVwzt2LA
+19.12.2022 11:46:25 ----- Disconnected  vZERZSm-AlHesQZVwzt2LA
+19.12.2022 12:45:09 ----- Vz7gEZN-CWKOBAcuzklMNg
+19.12.2022 13:07:30 ----- 3SzMbP0vfsvJCambqQblzA
+19.12.2022 13:28:51 ----- AhFoYm_uFfRJpCKG-PunDQ
+19.12.2022 13:52:32 ----- SeqYrfwJ5SqWv67Vnx-jcw
+19.12.2022 13:54:46 ----- YZY-ePtux80DENR9kJFsUg
+19.12.2022 13:59:57 ----- S26kpX30-lCkuEfxs8ERKg
+19.12.2022 14:26:07 ----- vsYykBj9vJb_tt6U1_8b-A
+19.12.2022 14:26:17 ----- Disconnected  S26kpX30-lCkuEfxs8ERKg
+19.12.2022 14:27:44 ----- Disconnected  vsYykBj9vJb_tt6U1_8b-A
+19.12.2022 14:27:46 ----- c2jGTwAtCpv9gMqsp1ILhQ
+19.12.2022 14:29:05 ----- Disconnected  c2jGTwAtCpv9gMqsp1ILhQ
+19.12.2022 14:29:06 ----- 6dRN7KDn0XsqA9QSdU8Y5g
+19.12.2022 14:33:27 ----- Weuc9tteXK-zF_Z9dfppZQ
+19.12.2022 14:35:09 ----- LfEbQAASgicURH7dQfh59A
+19.12.2022 14:35:09 ----- Disconnected  Weuc9tteXK-zF_Z9dfppZQ
+19.12.2022 14:39:16 ----- Disconnected  LfEbQAASgicURH7dQfh59A
+19.12.2022 14:39:17 ----- A0qaIptWkPwg8visZ1MXBA
+19.12.2022 14:46:27 ----- Disconnected  A0qaIptWkPwg8visZ1MXBA
+19.12.2022 14:46:27 ----- QTAYB3yoE5UnKKKsdjdj8A
+19.12.2022 14:51:26 ----- hywMV-IZo9-jSn_Mz65dSg
+19.12.2022 14:52:27 ----- Disconnected  hywMV-IZo9-jSn_Mz65dSg
+19.12.2022 14:52:27 ----- oZPOLbrx9vvRh3yZ7AtntQ
+19.12.2022 14:59:42 ----- A7PDgL4Jjp7lP3D9TVNbFg

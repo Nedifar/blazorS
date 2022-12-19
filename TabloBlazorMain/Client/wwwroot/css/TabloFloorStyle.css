@@ -1,0 +1,165 @@
+﻿@font-face {
+    font-family: FuturaDemiC;
+    src: url(/fonts/Futurademic.otf);
+}
+
+
+.mainBody {
+    position: relative;
+    width: 98%;
+    background-color: transparent !important;
+    height: 98%;
+    min-width: 1500px;
+    min-height: 800px;
+    font-family: "FuturaDemiC" !important;
+}
+
+.popover-header{
+    color:black;
+}
+
+.help-links{
+    margin-left: 2%;
+}
+
+    .help-links a {
+        color: white !important;
+    }
+
+.btn-danger {
+    --bs-btn-bg: transparent;
+    --bs-btn-border-color: transparent;
+    --bs-btn-active-bg: transparent;
+    --bs-btn-active-border-color: transparent;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: transparent;
+    --bs-btn-hover-bg: transparent;
+    --bs-btn-hover-border-color: transparent;
+}
+
+.blink1 {
+    -webkit-animation: blink1 3s linear infinite;
+    animation: blink1 3s linear infinite;
+}
+
+@-webkit-keyframes blink1 {
+    0% {
+        color: rgba(255, 255, 255, 1);
+    }
+
+    50% {
+        color: rgba(255, 255, 255, 0);
+    }
+
+    100% {
+        color: rgba(255, 255, 255, 1);
+    }
+}
+
+@keyframes blink1 {
+    0% {
+        color: rgba(255, 255, 255, 1);
+    }
+
+    50% {
+        color: rgba(255, 255, 255, 0);
+    }
+
+    100% {
+        color: rgba(255, 255, 255, 1);
+    }
+}
+
+.current_date_time {
+    margin-left: 50%;
+    margin-right: 50%;
+    white-space:nowrap;
+    align-content: center;
+    position: absolute;
+    top: 10px
+}
+
+    .current_date_time p {
+        text-align: center
+    }
+.monthP {
+    font-size: 2.5em
+}
+.dateP {
+    font-size: 4.5em
+}
+.current_paras_week {
+    position: absolute;
+    align-content: center;
+    height: 30%;
+    width: 98%;
+    left: 1%;
+    top: 23%
+}
+    .current_paras_week table {
+        height: 40%;
+        width: 100%;
+        border: 1px solid White
+    }
+    .current_paras_week tr {
+        border: 1px solid White;
+    }
+    .current_paras_week td {
+        text-align: center;
+        border: 1px solid White;
+    }
+.current_week_name {
+    width: 100%;
+    position: absolute;
+    left: 5px;
+    top: 5px
+}
+    .current_week_name p {
+        text-align: left;
+        font-size: 4em
+    }
+.current_weather {
+    width: 100%;
+    font-size: 5em;
+    position: absolute;
+    left: 5px;
+    bottom: 5px
+}
+.current_admin {
+    width: 100%;
+    position: absolute;
+    bottom: 0px
+}
+    .current_admin p {
+        text-align:center;
+        font-size:2em
+    }
+.currentAdminTextP {
+    text-align: center;
+    font-size: 2em
+}
+.currentAdminSelAdminP {
+    text-align: center;
+    font-size: 2.5em
+}
+.current_para {
+    width: 100%;
+    margin-left: 1%;
+    align-content: center;
+    position: absolute;
+    top: 1%
+}
+.current_paraLabelPara {
+    text-align: right;
+    font-size: 2em
+}
+.current_paraNumberPara {
+    text-align: right;
+    font-style: oblique;
+    font-size: 3em
+}
+
+.StatusParaDiv{
+    position: absolute;
+    top: 60%
+}
