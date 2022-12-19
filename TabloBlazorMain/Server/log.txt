@@ -1046,3 +1046,27 @@
 19.12.2022 14:52:27 ----- Disconnected  hywMV-IZo9-jSn_Mz65dSg
 19.12.2022 14:52:27 ----- oZPOLbrx9vvRh3yZ7AtntQ
 19.12.2022 14:59:42 ----- A7PDgL4Jjp7lP3D9TVNbFg
+19.12.2022 18:23:57 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\Nedifar\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Debug\net6.0\Raspisanie\Month.txt'.
+19.12.2022 18:24:15 ----- WeekNameHostedErrorAn exception has been raised that is likely due to a transient failure.
+19.12.2022 18:24:30 ----- AdminHostedErrorAn exception has been raised that is likely due to a transient failure.
+19.12.2022 18:25:51 ----- aLxrDQzQOjEYdleItxEo_Q
+19.12.2022 18:30:58 ----- azYzz1hs5lW2Qt-Fv9Kg-Q
+19.12.2022 18:30:58 ----- Disconnected  aLxrDQzQOjEYdleItxEo_Q
+19.12.2022 18:31:37 ----- chcHhTeNU-00kD2YqgJ5PA
+19.12.2022 18:37:26 ----- 56yl98AWUz7Dg4NsbgsU5g
+19.12.2022 18:38:38 ----- IAlR2DKffNRTLTgva9yY5w
+19.12.2022 18:38:46 ----- Disconnected  56yl98AWUz7Dg4NsbgsU5g
+19.12.2022 18:41:47 ----- Ny3cXUi5H61GxAQqOmo_6A
+19.12.2022 18:52:00 ----- s86-QhF5TS8eiqA8ZNZlbw
+19.12.2022 18:52:00 ----- Disconnected  Ny3cXUi5H61GxAQqOmo_6A
+19.12.2022 18:53:00 ----- IjPQkm7JjzzMSpXthMJ0QQ
+19.12.2022 19:00:04 ----- _HIiwYpWEVv-RaPJ29YpXw
+19.12.2022 19:00:05 ----- Disconnected  IjPQkm7JjzzMSpXthMJ0QQ
+19.12.2022 19:23:00 ----- Disconnected  _HIiwYpWEVv-RaPJ29YpXw
+19.12.2022 19:23:11 ----- gJaCXO7Zo9j8W2gNywMeEQ
+19.12.2022 19:53:13 ----- Disconnected  gJaCXO7Zo9j8W2gNywMeEQ
+19.12.2022 19:53:30 ----- 1F_CX77iakN67ujULB_YMQ
+19.12.2022 19:56:04 ----- XKdDp6WGNOP-ywxEej3Zdg
+19.12.2022 20:15:01 ----- 6g43ssDFfju8y0lekkCo8Q
+19.12.2022 20:15:02 ----- Disconnected  XKdDp6WGNOP-ywxEej3Zdg
+19.12.2022 20:16:48 ----- 1UYz1-7zAZN2Fyw5t8zWIw

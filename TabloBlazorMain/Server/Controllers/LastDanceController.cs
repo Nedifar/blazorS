@@ -438,7 +438,15 @@ namespace TabloBlazorMain.Server.Controllers
                 else if (DateTime.UtcNow.AddMinutes(5).Date.AddDays(7) == date.Date)
                 {
                     result = (IXLWorksheet)cache.Get("xLNew");
+                    if (result == null)
+                    {
+                        return NotFound("Расписание для данной недели не найдено. Повторить поиск?");
+                    }
                     int column = Differents.IndexGroup(group, result);
+                    if(column == 0)
+                    {
+                        return NotFound("Расписания для данной группы не найдено. Повторить поиск?");
+                    }
                     for (int j = 1; j <= 6; j++)
                     {
                         List<DayWeekClass> metrics = Differents.EnumerableMetrics(j * 6, column, result);
@@ -519,10 +527,21 @@ namespace TabloBlazorMain.Server.Controllers
                         }
                         catch
                         {
-                            Differents.SpecialSheduleReturn(date);
+                            if (Differents.SpecialSheduleReturn(date) == null)
+                            {
+                                return NotFound("Расписание для данной недели не найдено. Повторить поиск?");
+                            }
                             result = Differents.dictSpecial[date].Item1;
                         }
+                        if (result == null)
+                        {
+                            return NotFound("Расписание для данной недели не найдено. Повторить поиск?");
+                        }
                         int column = Differents.IndexGroup(group, result);
+                        if (column == 0)
+                        {
+                            return NotFound("Расписания для данной группы не найдено. Повторить поиск?");
+                        }
                         for (int j = 1; j <= 6; j++)
                         {
                             List<DayWeekClass> metrics = Differents.EnumerableMetrics(j * 6, column, result);
@@ -816,6 +835,10 @@ namespace TabloBlazorMain.Server.Controllers
                 while (listResult.Count() == 0)
                 {
                     listResult = (List<string>)cache.Get("NewListGroups");
+                    if(listResult == null)
+                    {
+                        return Ok(new List<string>());
+                    }
                 }
             }
             else
