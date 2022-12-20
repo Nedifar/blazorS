@@ -105,5 +105,7 @@ namespace TabloBlazorMain.Shared.LastDanceModels
         {
             get; set;
         }
+
+        public string groupMobile { get; set; }
     }
 }

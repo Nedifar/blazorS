@@ -1070,3 +1070,36 @@
 19.12.2022 20:15:01 ----- 6g43ssDFfju8y0lekkCo8Q
 19.12.2022 20:15:02 ----- Disconnected  XKdDp6WGNOP-ywxEej3Zdg
 19.12.2022 20:16:48 ----- 1UYz1-7zAZN2Fyw5t8zWIw
+20.12.2022 9:55:31 ----- Tygmr6qFUR87DNMjulY5fA
+20.12.2022 10:25:31 ----- Disconnected  Tygmr6qFUR87DNMjulY5fA
+20.12.2022 10:25:35 ----- tFYDyhX6Gg2NnHiK5qWsdg
+20.12.2022 10:55:34 ----- Disconnected  tFYDyhX6Gg2NnHiK5qWsdg
+20.12.2022 10:55:38 ----- 3iROM_aAMnBGKnTXk5LW5A
+20.12.2022 11:25:31 ----- Disconnected  3iROM_aAMnBGKnTXk5LW5A
+20.12.2022 11:25:36 ----- jffL4k2YonUsGHkgw0_6BA
+20.12.2022 11:55:35 ----- Disconnected  jffL4k2YonUsGHkgw0_6BA
+20.12.2022 11:55:39 ----- rTqPursKRY2E2KTMVrOBzA
+20.12.2022 12:25:38 ----- Disconnected  rTqPursKRY2E2KTMVrOBzA
+20.12.2022 12:25:41 ----- tsFyglQbZlXVV6W3wP5azA
+20.12.2022 12:55:41 ----- Disconnected  tsFyglQbZlXVV6W3wP5azA
+20.12.2022 12:55:45 ----- 5_ZjPjDQEyrELHVUpVOfvQ
+20.12.2022 12:59:44 ----- 7LJ-2oWIs0VvALA9Y2CsVQ
+20.12.2022 13:02:16 ----- hRzrYtjkCsRP4brZEMmB5g
+20.12.2022 13:02:16 ----- Disconnected  7LJ-2oWIs0VvALA9Y2CsVQ
+20.12.2022 13:03:21 ----- K29sgjUPzeSdPvwQIUw0hA
+20.12.2022 13:33:20 ----- Disconnected  K29sgjUPzeSdPvwQIUw0hA
+20.12.2022 13:33:26 ----- l0nCgjgBPHv-zNWNIlX0GA
+20.12.2022 13:47:18 ----- PORTbOmZuEZjRYV9zKnvSw
+20.12.2022 13:57:59 ----- gaftwotIgUpOfeBaginhwA
+20.12.2022 14:11:32 ----- Disconnected  gaftwotIgUpOfeBaginhwA
+20.12.2022 14:11:33 ----- z-CCJpQ06szeVgl9P63tIw
+20.12.2022 14:11:34 ----- Disconnected  z-CCJpQ06szeVgl9P63tIw
+20.12.2022 14:35:25 ----- MainSheduleErrorЭтот хост неизвестен. (oksei.ru:443)
+20.12.2022 14:35:26 ----- WeatherHostedErrorЭтот хост неизвестен. (weather.visualcrossing.com:443)
+20.12.2022 14:35:30 ----- WeekNameHostedErrorAn exception has been raised that is likely due to a transient failure.
+20.12.2022 14:35:30 ----- AdminHostedErrorAn exception has been raised that is likely due to a transient failure.
+20.12.2022 14:35:30 ----- AnnouncmentostedErrorAn exception has been raised that is likely due to a transient failure.
+20.12.2022 14:36:30 ----- Sc25LJx82ywT0GsGjrKy_g
+20.12.2022 14:37:05 ----- MainSheduleErrorЭтот хост неизвестен. (oksei.ru:443)
+20.12.2022 14:38:18 ----- TkNLs4tMsVbpov-yi2osPg
+20.12.2022 14:39:50 ----- l1p8oMZ0UN95IeRl8btSSg

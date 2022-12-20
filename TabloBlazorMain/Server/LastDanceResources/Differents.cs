@@ -394,7 +394,7 @@ namespace TabloBlazorMain.Server.LastDanceResources
                         string result = ix.Cell(i, j).GetValue<string>();
                         if (result.Contains(kabinet))
                         {
-                            kabinets.Add(new DayWeekClass { Number = number, cabinet = kabinet, Day = result + $"\n{ix.Cell(5, j).GetValue<string>()}" });
+                            kabinets.Add(new DayWeekClass { Number = number, cabinet = kabinet, Day = result + $"\n{ix.Cell(5, j).GetValue<string>()}", groupMobile = ix.Cell(5, j).GetValue<string>() });
                             exit = false;
                             break;
                         }
