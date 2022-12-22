@@ -27,7 +27,7 @@ body {
     color: #FFFFFF !important;
 }
 
-button{
+button {
     background-color: transparent;
 }
 
@@ -426,5 +426,5 @@ td {
             position: relative;
             margin: 10px 0 0;
             padding: 0;
-            font-size: 16px;
+            font-size: 24px;
         }
