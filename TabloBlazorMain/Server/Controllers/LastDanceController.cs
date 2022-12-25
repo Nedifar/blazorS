@@ -122,173 +122,6 @@ namespace TabloBlazorMain.Server.Controllers
             return Ok(fullDayWeekClasses);
         }
 
-        [HttpGet]
-        [Route("getTeacherMobile/{teacher}")]
-        public ActionResult GetTeacherMobile(string teacher, DateTime date)
-        {
-            IXLWorksheet result = null;
-            List<FullDayWeekClass> fullDayWeekClasses = new List<FullDayWeekClass>();
-
-            while (result is null)
-            {
-                if (DateTime.UtcNow.AddHours(5).Date == date.Date)
-                {
-                    result = (IXLWorksheet)cache.Get("xLMain");
-                    for (int j = 1; j <= 6; j++)
-                    {
-                        List<DayWeekClass> metrics = Differents.raspisanieteach(j * (int)DateTime.UtcNow.AddHours(5).DayOfWeek, teacher, result);
-                        string day = CultureInfo.GetCultureInfo("ru-RU").DateTimeFormat.GetDayName(new DateTime(2022, 12, 11).AddDays(j).DayOfWeek);
-                        fullDayWeekClasses.Add(new FullDayWeekClass
-                        {
-                            dayWeekName = day.ToUpper()[0] + day.Substring(1),
-                            dayWeekClasses = metrics
-                        });
-
-                        List<Para> paras = new List<Para>();
-                        Differents dif = new();
-                        dif.DateOut(DateTime.Now);
-                        var list = context.TimeShedules.ToList();
-                        if (list.Where(p => p.Name == dif.DdownDay.AddDays(j - 1).ToShortDateString()).Count() != 0)
-                        {
-                            paras = list.Where(p => p.Name == DateTime.Now.ToShortDateString()).FirstOrDefault().OnlyParas.OrderBy(p => p.numberInterval).ToList();
-                        }
-                        else if ((int)dif.DdownDay.AddDays(j - 1).DayOfWeek == context.SpecialDayWeekNames.FirstOrDefault().dayWeek)
-                        {
-                            paras = list.Where(p => p.Name == "ЧКР").FirstOrDefault().OnlyParas.OrderBy(p => p.numberInterval).ToList();
-                            for (int i = 0; i < paras.Count; i++)
-                            {
-                                if (paras[i].outGraphicNewTablo == "ЧКР")
-                                    fullDayWeekClasses.FirstOrDefault()?.dayWeekClasses.Insert(i, new DayWeekClass { Day = "ЧКР" });
-                            }
-                        }
-                        else
-                        {
-                            paras = list.Where(p => p.Name == "Основной").FirstOrDefault().OnlyParas.OrderBy(p => p.numberInterval).ToList();
-                        }
-                        var cab = fullDayWeekClasses[j - 1].dayWeekClasses;
-                        var teachers = (List<string>)cache.Get("MainListTeachers");
-                        for (int i = 0; i < cab.Count(); i++)
-                        {
-                            cab[i].beginMobile = paras[i].begin.ToShortTimeString();
-                            cab[i].endMobile = paras[i].end.ToShortTimeString();
-                            cab[i].teacherMobile = cab[i].teacher(teachers);
-                            cab[i].Date = dif.DdownDay.AddDays(j - 1);
-                        }
-                        foreach (var item in context.Lessons.Where(p => p.teacherName == teacher && (int)DateTime.UtcNow.AddHours(5).DayOfWeek == p.idDayWeek).ToList())
-                        {
-                            for (int i = 0; i < paras.Count(); i++)
-                            {
-                                if (paras[i].end.TimeOfDay >= item.Time.beginTime.TimeOfDay)
-                                {
-                                    if (paras[i].outGraphicNewTablo == "ЧКР")
-                                        continue;
-                                    cab.Where(p => p.Number.ToString() == paras[i].outGraphicNewTablo).FirstOrDefault().Day = "Начало: " + item.Time.beginTime.ToString("HH:mm") + "\n" + item.Time.SheduleAdditionalLesson.name + "\n" + item.teacherName + "\n" + item.groupName;
-                                    for (int l = i; l < paras.Count(); l++)
-                                    {
-                                        if (paras[l].begin.TimeOfDay < item.Time.beginTime.AddMinutes(item.Time.SheduleAdditionalLesson.durationLesson).TimeOfDay)
-                                        {
-                                            cab.Where(p => p.Number.ToString() == paras[l].outGraphicNewTablo).FirstOrDefault().Day = item.Time.SheduleAdditionalLesson.name + "\n" + item.teacherName + "\n" + item.groupName;
-                                            if (i == l)
-                                                cab.Where(p => p.Number.ToString() == paras[l].outGraphicNewTablo).FirstOrDefault().Day = "Начало: " + item.Time.beginTime.ToString("HH:mm") + "\n" + cab.Where(p => p.Number.ToString() == paras[l].outGraphicNewTablo).FirstOrDefault().Day;
-                                            if (paras[l].end.TimeOfDay >= item.Time.beginTime.AddMinutes(item.Time.SheduleAdditionalLesson.durationLesson).TimeOfDay)
-                                            {
-                                                cab.Where(p => p.Number.ToString() == paras[l].outGraphicNewTablo).FirstOrDefault().Day += "\n" + "Конец: " + item.Time.beginTime.AddMinutes(item.Time.SheduleAdditionalLesson.durationLesson).ToString("HH:mm");
-                                            }
-                                        }
-                                    }
-                                    break;
-                                }
-                            }
-                        }
-                    }
-
-                }
-                else if (DateTime.UtcNow.AddHours(5).Date.AddDays(7) == date.Date)
-                {
-                    result = (IXLWorksheet)cache.Get("xLNew");
-                    for (int j = 1; j <= 6; j++)
-                    {
-                        List<DayWeekClass> metrics = Differents.raspisanieteach(j * (int)DateTime.UtcNow.AddHours(5).DayOfWeek, teacher, result);
-                        string day = CultureInfo.GetCultureInfo("ru-RU").DateTimeFormat.GetDayName(new DateTime(2022, 12, 11).AddDays(j).DayOfWeek);
-                        fullDayWeekClasses.Add(new FullDayWeekClass
-                        {
-                            dayWeekName = day.ToUpper()[0] + day.Substring(1),
-                            dayWeekClasses = metrics
-                        });
-
-                        List<Para> paras = new List<Para>();
-                        Differents dif = new();
-                        dif.DateOut(date);
-                        var list = context.TimeShedules.ToList();
-                        if (list.Where(p => p.Name == dif.DdownDay.AddDays(j - 1).ToShortDateString()).Count() != 0)
-                        {
-                            paras = list.Where(p => p.Name == DateTime.Now.ToShortDateString()).FirstOrDefault().OnlyParas.OrderBy(p => p.numberInterval).ToList();
-                        }
-                        else if ((int)dif.DdownDay.AddDays(j - 1).DayOfWeek == context.SpecialDayWeekNames.FirstOrDefault().dayWeek)
-                        {
-                            paras = list.Where(p => p.Name == "ЧКР").FirstOrDefault().OnlyParas.OrderBy(p => p.numberInterval).ToList();
-                            for (int i = 0; i < paras.Count; i++)
-                            {
-                                if (paras[i].outGraphicNewTablo == "ЧКР")
-                                    fullDayWeekClasses.FirstOrDefault()?.dayWeekClasses.Insert(i, new DayWeekClass { Day = "ЧКР" });
-                            }
-                        }
-                        else
-                        {
-                            paras = list.Where(p => p.Name == "Основной").FirstOrDefault().OnlyParas.OrderBy(p => p.numberInterval).ToList();
-                        }
-                        var cab = fullDayWeekClasses[j - 1].dayWeekClasses;
-                        var teachers = (List<string>)cache.Get("MainListTeachers");
-                        for (int i = 0; i < cab.Count(); i++)
-                        {
-                            cab[i].beginMobile = paras[i].begin.ToShortTimeString();
-                            cab[i].endMobile = paras[i].end.ToShortTimeString();
-                            cab[i].teacherMobile = cab[i].teacher(teachers);
-                            cab[i].Date = dif.DdownDay.AddDays(j - 1);
-                        }
-                        foreach (var item in context.Lessons.Where(p => p.teacherName == teacher && (int)DateTime.UtcNow.AddHours(5).DayOfWeek == p.idDayWeek).ToList())
-                        {
-                            for (int i = 0; i < paras.Count(); i++)
-                            {
-                                if (paras[i].end.TimeOfDay >= item.Time.beginTime.TimeOfDay)
-                                {
-                                    if (paras[i].outGraphicNewTablo == "ЧКР")
-                                        continue;
-                                    cab.Where(p => p.Number.ToString() == paras[i].outGraphicNewTablo).FirstOrDefault().Day = "Начало: " + item.Time.beginTime.ToString("HH:mm") + "\n" + item.Time.SheduleAdditionalLesson.name + "\n" + item.teacherName + "\n" + item.groupName;
-                                    for (int l = i; l < paras.Count(); l++)
-                                    {
-                                        if (paras[l].begin.TimeOfDay < item.Time.beginTime.AddMinutes(item.Time.SheduleAdditionalLesson.durationLesson).TimeOfDay)
-                                        {
-                                            cab.Where(p => p.Number.ToString() == paras[l].outGraphicNewTablo).FirstOrDefault().Day = item.Time.SheduleAdditionalLesson.name + "\n" + item.teacherName + "\n" + item.groupName;
-                                            if (i == l)
-                                                cab.Where(p => p.Number.ToString() == paras[l].outGraphicNewTablo).FirstOrDefault().Day = "Начало: " + item.Time.beginTime.ToString("HH:mm") + "\n" + cab.Where(p => p.Number.ToString() == paras[l].outGraphicNewTablo).FirstOrDefault().Day;
-                                            if (paras[l].end.TimeOfDay >= item.Time.beginTime.AddMinutes(item.Time.SheduleAdditionalLesson.durationLesson).TimeOfDay)
-                                            {
-                                                cab.Where(p => p.Number.ToString() == paras[l].outGraphicNewTablo).FirstOrDefault().Day += "\n" + "Конец: " + item.Time.beginTime.AddMinutes(item.Time.SheduleAdditionalLesson.durationLesson).ToString("HH:mm");
-                                            }
-                                        }
-                                    }
-                                    break;
-                                }
-                            }
-                        }
-                    }
-                }
-                else
-                {
-                    //result = Differents.dictSpecial[date.Date].Item1;
-                    //days.Add(new DayWeekClass { Day = "ЧКР" });
-                    //int column = Differents.IndexGroup(group, result);
-                    //for (int j = 1; j <= 6; j++)
-                    //{
-                    //    List<DayWeekClass> metrics = Differents.EnumerableMetrics(j * 6, column, result);
-                    //    days.AddRange(metrics.ToArray());
-                    //}
-                }
-            }
-            return Ok(fullDayWeekClasses);
-        }
-
         [HttpGet("getgroup/{group}")]
         public ActionResult Get(string group) //вернуть расписание по группам
         {
@@ -357,6 +190,8 @@ namespace TabloBlazorMain.Server.Controllers
         [HttpGet("getgroupMobile")]
         public ActionResult GetGroupMobile(string group, DateTime date)
         {
+            if (group == null)
+            { return Ok("Введите название группы."); }
             IXLWorksheet result = null;
             List<FullDayWeekClass> fullDayWeekClasses = new List<FullDayWeekClass>();
 
@@ -692,6 +527,8 @@ namespace TabloBlazorMain.Server.Controllers
         [Route("getteacherMobile")]
         public ActionResult GetTeachersNobile(string teacher, DateTime date)
         {
+            if (teacher == null)
+            { return Ok("Введите имя преподавателя."); }
             IXLWorksheet result = null;
             List<FullDayWeekClass> fullDayWeekClasses = new List<FullDayWeekClass>();
 
@@ -847,8 +684,6 @@ namespace TabloBlazorMain.Server.Controllers
                 {
                     try
                     {
-
-
                         try
                         {
                             result = Differents.dictSpecial[date].Item1;
@@ -948,6 +783,8 @@ namespace TabloBlazorMain.Server.Controllers
         [Route("getcabinetMobile")]
         public ActionResult GetCabinetMobile(string cabinet, DateTime date)
         {
+            if (cabinet == null)
+            { return Ok("Введите номер кабинета."); }
             IXLWorksheet result = null;
             List<FullDayWeekClass> fullDayWeekClasses = new List<FullDayWeekClass>();
 
@@ -1520,6 +1357,8 @@ namespace TabloBlazorMain.Server.Controllers
         [Route("searchEmptycabinet/{numberPara}")]
         public async Task<ActionResult> SearchEmptyCabinet(int numberPara)
         {
+            if (DateTime.Now.DayOfWeek == 0)
+                return Ok(new string[] { "Имей уважение, сегодня воскресенье." });
             while ((List<FloorCabinet>)cache.Get("FullFloorShedule") is null)
             {
 
