@@ -52,7 +52,7 @@ namespace TabloBlazorMain.Server.LastDanceResources
                     bool exit = true;
                     List<string> dataforcb = new List<string>();
                     int columnsCount = workSheet.ColumnsUsed().Count();
-                    int rowsCount = workSheet.RowsUsed().Count();
+                    int rowsCount = 100;
                     for (int i = 3; i <= columnsCount; i++)
                     {
                         for (int j = 6; j <= rowsCount; j++)
@@ -90,7 +90,7 @@ namespace TabloBlazorMain.Server.LastDanceResources
                 {
                     bool exit = true;
                     int columnsCount = workSheet.ColumnsUsed().Count();
-                    int rowsCount = workSheet.RowsUsed().Count();
+                    int rowsCount = 100;
                     List<string> dataforcb = new List<string>();
                     for (int i = 3; i <= columnsCount; i++)
                     {

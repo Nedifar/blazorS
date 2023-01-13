@@ -1114,7 +1114,7 @@ namespace TabloBlazorMain.Server.Controllers
         }
 
         [HttpGet]
-        [Route("getgroupList")]
+        [Route("getgroupsList")]
         public ActionResult<IEnumerable<List<string>>> get(DateTime date) //вернуть список групп
         {
             var listResult = new List<string>();
@@ -1158,7 +1158,6 @@ namespace TabloBlazorMain.Server.Controllers
             var worksheet = _workbook1.Worksheets.First();
             for (int i = 1; i <= worksheet.ColumnsUsed().Count(); i++)
             {
-                int n = worksheet.RowsUsed().Count();
                 for (int j = 11; j <= worksheet.RowsUsed().Count() + 10; j++)
                 {
                     for (int l = 3; l <= ix.ColumnsUsed().Count(); l++)

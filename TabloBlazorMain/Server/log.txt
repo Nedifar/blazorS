@@ -1177,3 +1177,44 @@
 25.12.2022 21:36:17 ----- v-rp2nH1CG-z9ObVZ_YKGw
 25.12.2022 21:39:11 ----- DQeiu3T71WEZz2f35SCm1w
 25.12.2022 22:09:00 ----- C3vGwJ6USg6kzk5vaTqX8Q
+26.12.2022 9:35:57 ----- E2qcscdKriXpT5_kMLvSvA
+26.12.2022 10:05:55 ----- Disconnected  E2qcscdKriXpT5_kMLvSvA
+26.12.2022 10:06:02 ----- 8G6tklBxSjbQbBOlDfXR3g
+26.12.2022 10:35:57 ----- Disconnected  8G6tklBxSjbQbBOlDfXR3g
+26.12.2022 10:36:01 ----- eD2j4IYu927J0-1bnMAg5w
+26.12.2022 11:06:00 ----- Disconnected  eD2j4IYu927J0-1bnMAg5w
+26.12.2022 11:06:03 ----- HmkFNAqPvPpLkfq3Z3sr-g
+26.12.2022 11:36:02 ----- Disconnected  HmkFNAqPvPpLkfq3Z3sr-g
+26.12.2022 11:36:10 ----- TNFP2b-Aes3j0CtYOETSgw
+26.12.2022 12:06:09 ----- Disconnected  TNFP2b-Aes3j0CtYOETSgw
+26.12.2022 12:06:13 ----- Hc5wAsF-7FUx8_uMZA7bAg
+12.01.2023 8:59:01 ----- WeatherHostedErrorInput string was not in a correct format.
+12.01.2023 8:59:05 ----- AdminHostedErrorObject reference not set to an instance of an object.
+12.01.2023 8:59:22 ----- Z_SpTawexDYDekXLQIGC9w
+12.01.2023 9:02:54 ----- WeatherHostedErrorInput string was not in a correct format.
+12.01.2023 9:02:58 ----- AdminHostedErrorObject reference not set to an instance of an object.
+12.01.2023 9:03:10 ----- lbXNWjmp_xpdQK7oH_5nSw
+12.01.2023 9:05:22 ----- WeatherHostedErrorInput string was not in a correct format.
+12.01.2023 9:05:26 ----- AdminHostedErrorObject reference not set to an instance of an object.
+12.01.2023 9:05:37 ----- iz5113kB6xjkWyoJw0UK0Q
+12.01.2023 9:07:55 ----- AdminHostedErrorObject reference not set to an instance of an object.
+12.01.2023 9:08:03 ----- TQZKiq7tx9TeMM6dwSZLxA
+12.01.2023 9:09:26 ----- Disconnected  TQZKiq7tx9TeMM6dwSZLxA
+12.01.2023 9:14:38 ----- AdminHostedErrorObject reference not set to an instance of an object.
+12.01.2023 9:14:46 ----- KLfCBLeajq2gC0oprQ4KYw
+12.01.2023 9:15:26 ----- Disconnected  KLfCBLeajq2gC0oprQ4KYw
+12.01.2023 9:54:16 ----- MainSheduleErrorThe process cannot access the file 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Debug\net6.0\Raspisanie\_9_14_jan.xlsx' because it is being used by another process.
+12.01.2023 9:54:23 ----- AdminHostedErrorObject reference not set to an instance of an object.
+12.01.2023 9:54:33 ----- 7tjrV5dbrn62HDHvPlt5tQ
+12.01.2023 9:55:20 ----- Disconnected  7tjrV5dbrn62HDHvPlt5tQ
+12.01.2023 9:56:29 ----- MainSheduleErrorThe process cannot access the file 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Debug\net6.0\Raspisanie\_9_14_jan.xlsx' because it is being used by another process.
+12.01.2023 9:56:33 ----- AdminHostedErrorObject reference not set to an instance of an object.
+12.01.2023 9:56:42 ----- HR9kHB24n12iUqS3Jhe7pw
+12.01.2023 9:57:02 ----- MainSheduleErrorThe process cannot access the file 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Debug\net6.0\Raspisanie\_9_14_jan.xlsx' because it is being used by another process.
+12.01.2023 9:57:07 ----- AdminHostedErrorObject reference not set to an instance of an object.
+12.01.2023 9:57:15 ----- axei1xstd79heJ5LWI5TZg
+12.01.2023 9:59:27 ----- AdminHostedErrorObject reference not set to an instance of an object.
+12.01.2023 9:59:41 ----- VAZRLQHSegR9ARocMGvDzQ
+12.01.2023 10:00:06 ----- Disconnected  VAZRLQHSegR9ARocMGvDzQ
+13.01.2023 12:14:55 ----- AdminHostedErrorObject reference not set to an instance of an object.
+13.01.2023 12:15:07 ----- 31_szEWbls6kR2xBCGQjug

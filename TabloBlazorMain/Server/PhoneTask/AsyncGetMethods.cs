@@ -22,7 +22,7 @@ namespace TabloBlazorMain.Server.PhoneTask
                 var result = response.Content.ReadAsStringAsync().Result;
                 var jsonParse = JObject.Parse(result);
                 string s = (string)jsonParse["currentConditions"]["temp"];
-                string actualWeather = Convert.ToInt32(s).ToString() + "°C";
+                string actualWeather = s.Split('.')[0] + "°C";
                 cache.Set("weather", actualWeather, new MemoryCacheEntryOptions { AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(15) });
             }
         }

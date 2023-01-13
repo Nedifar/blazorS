@@ -84,7 +84,7 @@ namespace TabloBlazorMain.Server.LastDanceHostedServices
                                 await Task.Run(() =>
                                 {
                                     int columnsCount = workSheet.ColumnsUsed().Count();
-                                    int rowsCount = workSheet.RowsUsed().Count();
+                                    int rowsCount = 100;
                                     bool exit = true;
                                     List<string> dataforcb = new List<string>();
                                     for (int i = 3; i <= columnsCount; i++)
@@ -125,7 +125,7 @@ namespace TabloBlazorMain.Server.LastDanceHostedServices
                                 {
                                     bool exit = true;
                                     int columnsCount = workSheet.ColumnsUsed().Count();
-                                    int rowsCount = workSheet.RowsUsed().Count();
+                                    int rowsCount = 100;
                                     List<string> dataforcb = new List<string>();
                                     for (int i = 3; i <= columnsCount; i++)
                                     {
