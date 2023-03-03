@@ -48,14 +48,23 @@ namespace TabloBlazorMain.Server.LastDanceHostedServices
                         {
 
                         }
+                        while ((List<string>)cache.Get("MainListTeachers") is null)
+                        {
+
+                        }
                         var iX = (IXLWorksheet)cache.Get("xLMain");
                         List<string> cabinets = (List<string>)cache.Get("MainListCabinets");
+                        List<string> teachers = (List<string>)cache.Get("MainListTeachers");
 
                         foreach (string cabinet in cabinets)
                         {
                             List<DayWeekClass> days = new List<DayWeekClass>();
                             int row = 6;
                             List<DayWeekClass> kabinets = Differents.raspisaniekab(row * (int)DateTime.Now.DayOfWeek, cabinet, iX);
+                            kabinets.ForEach(kabinets =>
+                            {
+                                kabinets.teacherMobile = kabinets.teacher(teachers);
+                            });
                             days.AddRange(kabinets.ToArray());
                             floorCabinets.Add(new FloorCabinet { DayWeeks = days, Name = cabinet });
                         }

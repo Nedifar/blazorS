@@ -23,6 +23,7 @@ namespace TabloBlazorMain.Server.PhoneTask
             _hubContext = hubContext;
             cache = memoryCache;
         }
+
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
             // Выполняем задачу пока не будет запрошена остановка приложения

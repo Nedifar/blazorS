@@ -199,7 +199,7 @@
         hubConnection.On<string>("SendWeather", async (message) =>
         {
             weather = message;
-            var response = await Http.GetAsync($"api/LastDance/getteacherslist");
+            var response = await Http.GetAsync($"api/LastDance/getteacherslist?date={DateTime.Now.ToString("MM.dd.yyyy")}");
             response.EnsureSuccessStatusCode();
             teachers = response.Content.ReadAsAsync<List<string>>().Result;
             StateHasChanged();
@@ -271,7 +271,7 @@
             response.EnsureSuccessStatusCode();
             var str = response.Content.ReadAsStringAsync().Result;
             weather = str.Replace("'", "");
-            var response1 = await Http.GetAsync($"api/LastDance/getteachersList");
+            var response1 = await Http.GetAsync($"api/LastDance/getteachersList?date={DateTime.Now.ToString("MM.dd.yyyy")}");
             response1.EnsureSuccessStatusCode();
             teachers = response1.Content.ReadAsAsync<List<string>>().Result;
         }
@@ -321,7 +321,7 @@
             var query = new Uri(NavigationManager.Uri).Query;
             corp = HttpUtility.ParseQueryString(query).Get("corp");
             floor = HttpUtility.ParseQueryString(query).Get("floor");
-            var response = await Http.PostAsync($"api/LastDance/getFloorShedule", new TabloBlazorMain.Shared.LastDanceModels.PostFloorModel { floor = floor + corp, count = update.lvTime.Count(), paraNow = update.paraNow, CHKR = update.lv }, new JsonMediaTypeFormatter());
+            var response = await Http.PostAsync($"/api/LastDance/getFloorShedule", new TabloBlazorMain.Shared.LastDanceModels.PostFloorModel { floor = floor + corp, count = update.lvTime.Count(), paraNow = update.paraNow, CHKR = update.lv }, new JsonMediaTypeFormatter());
             response.EnsureSuccessStatusCode();
             DayWeeks = response.Content.ReadAsAsync<List<TabloBlazorMain.Shared.LastDanceModels.DayWeekClass>>().Result;
             module = await JSRuntime.InvokeAsync<IJSObjectReference>(

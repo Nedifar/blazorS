@@ -13,6 +13,14 @@ string con = "Host=192.168.147.69; port=5432; Database=InformationTabloBase; use
 //string con = "Host=localhost; port=5432; Database=postgres; username=postgres; password=gaz_gaz_Ilyas12";
 // Configure the HTTP request pipeline.
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CorsPolicy",
+        builder => builder.AllowAnyOrigin().
+        AllowAnyHeader().
+        AllowAnyMethod()
+        );
+});
 builder.Services.AddDbContext<context>(options => options.UseNpgsql(con).UseLazyLoadingProxies());
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
@@ -43,12 +51,7 @@ builder.Services.AddHostedService<DayPartHeadersService>();
 builder.Services.AddMemoryCache();
 var app = builder.Build();
 
-app.UseCors(cors =>
-{
-    cors.AllowAnyHeader();
-    cors.AllowAnyMethod();
-    cors.AllowAnyOrigin();
-});
+app.UseCors("CorsPolicy");
 app.UseResponseCompression();
 app.UseDeveloperExceptionPage();
 

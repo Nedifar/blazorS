@@ -1218,3 +1218,187 @@
 12.01.2023 10:00:06 ----- Disconnected  VAZRLQHSegR9ARocMGvDzQ
 13.01.2023 12:14:55 ----- AdminHostedErrorObject reference not set to an instance of an object.
 13.01.2023 12:15:07 ----- 31_szEWbls6kR2xBCGQjug
+01.02.2023 11:03:44 ----- MainSheduleErrorDelegate to an instance method cannot have null 'this'.
+01.02.2023 11:03:50 ----- AdminHostedErrorObject reference not set to an instance of an object.
+01.02.2023 11:05:38 ----- AdminHostedErrorObject reference not set to an instance of an object.
+01.02.2023 11:05:52 ----- RbW4HZipgKU0x_uusjSkgQ
+01.02.2023 11:05:58 ----- Disconnected  RbW4HZipgKU0x_uusjSkgQ
+01.02.2023 11:06:03 ----- PSvMjcLcaCRgUVk_h_5FRw
+01.02.2023 11:08:56 ----- AdminHostedErrorObject reference not set to an instance of an object.
+01.02.2023 11:09:04 ----- NP7BR0HOYHHZOZ5S703Qmg
+01.02.2023 11:09:12 ----- Disconnected  NP7BR0HOYHHZOZ5S703Qmg
+01.02.2023 11:09:18 ----- 6SeYlz2qeFJKraxU8foXyw
+01.02.2023 12:10:38 ----- AdminHostedErrorObject reference not set to an instance of an object.
+01.02.2023 12:10:38 ----- Disconnected  6SeYlz2qeFJKraxU8foXyw
+01.02.2023 12:10:38 ----- mDKVeqPyCgmCrYpscWFdlA
+01.02.2023 12:10:38 ----- Disconnected  mDKVeqPyCgmCrYpscWFdlA
+01.02.2023 12:15:37 ----- AdminHostedErrorObject reference not set to an instance of an object.
+01.02.2023 12:15:45 ----- pIRWG0HkUz6gjOz9VNvqjA
+01.02.2023 12:15:51 ----- Disconnected  pIRWG0HkUz6gjOz9VNvqjA
+01.02.2023 12:16:16 ----- AFYopiU3d3t5kuTSVRuhTg
+01.02.2023 12:17:50 ----- Disconnected  AFYopiU3d3t5kuTSVRuhTg
+01.02.2023 12:18:31 ----- qOTh4zpIjB0K3hOpf-IlWQ
+01.02.2023 12:18:35 ----- Disconnected  qOTh4zpIjB0K3hOpf-IlWQ
+01.02.2023 12:19:49 ----- AdminHostedErrorObject reference not set to an instance of an object.
+01.02.2023 12:19:55 ----- bSRaz6ml1BufSgbcf0JlEw
+01.02.2023 12:19:57 ----- Disconnected  bSRaz6ml1BufSgbcf0JlEw
+01.02.2023 12:21:14 ----- AdminHostedErrorObject reference not set to an instance of an object.
+01.02.2023 12:21:21 ----- lZbjqN_DhDIKWrS1kqhJHg
+01.02.2023 12:21:36 ----- Disconnected  lZbjqN_DhDIKWrS1kqhJHg
+01.02.2023 12:23:09 ----- AdminHostedErrorObject reference not set to an instance of an object.
+01.02.2023 12:23:15 ----- jlZwULwgLzOVokKbGMnVZw
+01.02.2023 12:23:19 ----- Disconnected  jlZwULwgLzOVokKbGMnVZw
+01.02.2023 12:23:30 ----- sNXuGo2Ud8SDiDPUxvIu7A
+01.02.2023 12:24:00 ----- Disconnected  sNXuGo2Ud8SDiDPUxvIu7A
+01.02.2023 14:05:28 ----- AdminHostedErrorObject reference not set to an instance of an object.
+01.02.2023 14:05:42 ----- 6uBFCw_iJDHPHDRdN6MIbA
+01.02.2023 14:05:46 ----- Disconnected  6uBFCw_iJDHPHDRdN6MIbA
+01.02.2023 14:05:51 ----- rRn-RZw2S_bc_eXgvsgdRQ
+01.02.2023 14:05:55 ----- Disconnected  rRn-RZw2S_bc_eXgvsgdRQ
+01.02.2023 14:06:17 ----- AdminHostedErrorObject reference not set to an instance of an object.
+01.02.2023 14:06:28 ----- bak-BKvb-ThLFn6ZgBYTGg
+02.02.2023 9:28:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:28:11 ----- AdminHostedErrorObject reference not set to an instance of an object.
+02.02.2023 9:28:29 ----- 2EM8R7-ddRgmCyiu3P7Sng
+02.02.2023 9:29:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:31:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:33:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:34:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:36:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:38:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:39:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:41:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:43:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:43:11 ----- AdminHostedErrorObject reference not set to an instance of an object.
+02.02.2023 9:44:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:46:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:48:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:49:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:51:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:53:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:54:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:56:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:58:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 9:58:11 ----- AdminHostedErrorObject reference not set to an instance of an object.
+02.02.2023 9:58:27 ----- Disconnected  2EM8R7-ddRgmCyiu3P7Sng
+02.02.2023 9:58:34 ----- 0ryV_A1IZsFMUGqxPdZK6A
+02.02.2023 9:59:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:01:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:03:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:04:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:06:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:08:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:09:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:11:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:13:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:13:12 ----- AdminHostedErrorObject reference not set to an instance of an object.
+02.02.2023 10:14:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:16:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:18:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:19:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:21:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:23:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:24:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:26:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:28:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:28:12 ----- AdminHostedErrorObject reference not set to an instance of an object.
+02.02.2023 10:28:32 ----- Disconnected  0ryV_A1IZsFMUGqxPdZK6A
+02.02.2023 10:28:37 ----- 72MZ9byPhF6nLl9S144oyg
+02.02.2023 10:29:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:31:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:33:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:34:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:36:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:38:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:39:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:41:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:43:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:43:12 ----- AdminHostedErrorObject reference not set to an instance of an object.
+02.02.2023 10:44:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:46:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:48:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:49:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:51:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:53:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:54:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:56:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:58:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 10:58:12 ----- AdminHostedErrorObject reference not set to an instance of an object.
+02.02.2023 10:58:35 ----- Disconnected  72MZ9byPhF6nLl9S144oyg
+02.02.2023 10:58:40 ----- _0-DwIhPetres-ZYzGYdew
+02.02.2023 10:59:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:01:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:03:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:04:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:06:26 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:08:06 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:09:46 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:11:27 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:13:07 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:13:12 ----- AdminHostedErrorObject reference not set to an instance of an object.
+02.02.2023 11:14:47 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:16:27 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:18:07 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:19:47 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:21:27 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:23:07 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:24:47 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:26:27 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:28:07 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:28:12 ----- AdminHostedErrorObject reference not set to an instance of an object.
+02.02.2023 11:28:40 ----- Disconnected  _0-DwIhPetres-ZYzGYdew
+02.02.2023 11:28:44 ----- BcUQqDQlDalgftThggDUxA
+02.02.2023 11:29:47 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:31:27 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:33:07 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:34:47 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:36:27 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+02.02.2023 11:38:07 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+06.02.2023 9:56:45 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+06.02.2023 9:56:51 ----- AdminHostedErrorObject reference not set to an instance of an object.
+07.02.2023 12:21:43 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+07.02.2023 12:21:49 ----- AdminHostedErrorObject reference not set to an instance of an object.
+07.02.2023 12:22:02 ----- tWGhCJBSRy4iOH03Lhs9xQ
+07.02.2023 12:22:08 ----- Disconnected  tWGhCJBSRy4iOH03Lhs9xQ
+07.02.2023 12:22:14 ----- MBemsb22yKH_jDWxCoKIrA
+07.02.2023 12:22:55 ----- Disconnected  MBemsb22yKH_jDWxCoKIrA
+08.02.2023 10:34:58 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+08.02.2023 10:35:05 ----- AdminHostedErrorObject reference not set to an instance of an object.
+08.02.2023 10:35:20 ----- 6az1XHjCsQZbvdkIawv9kg
+08.02.2023 10:35:29 ----- Disconnected  6az1XHjCsQZbvdkIawv9kg
+08.02.2023 10:36:38 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+08.02.2023 10:37:14 ----- K0JHQGPqC8T_190qG366TQ
+08.02.2023 10:38:18 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+08.02.2023 10:39:58 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+08.02.2023 10:40:33 ----- Disconnected  K0JHQGPqC8T_190qG366TQ
+08.02.2023 10:41:38 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+08.02.2023 10:42:34 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+08.02.2023 10:42:40 ----- AdminHostedErrorObject reference not set to an instance of an object.
+08.02.2023 10:42:52 ----- YHMplDnf-ZzqgzY7zBBycg
+08.02.2023 10:43:04 ----- Disconnected  YHMplDnf-ZzqgzY7zBBycg
+08.02.2023 10:44:14 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+08.02.2023 10:45:02 ----- T8M2F9_ZOFTaBwi9ttp7PA
+08.02.2023 10:45:54 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+08.02.2023 10:47:39 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+08.02.2023 10:47:39 ----- Disconnected  T8M2F9_ZOFTaBwi9ttp7PA
+08.02.2023 10:48:27 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+08.02.2023 10:48:31 ----- AdminHostedErrorObject reference not set to an instance of an object.
+08.02.2023 10:48:41 ----- T5D_fSl85dthRycrMPyl1g
+08.02.2023 10:48:45 ----- Disconnected  T5D_fSl85dthRycrMPyl1g
+08.02.2023 10:50:10 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+08.02.2023 10:51:50 ----- MainSheduleErrorCould not find a part of the path 'C:\Users\SU\Desktop\TabloBlazorMain\TabloBlazorMain\Server\bin\Release\net6.0\Raspisanie\Month.txt'.
+08.02.2023 10:52:55 ----- AdminHostedErrorObject reference not set to an instance of an object.
+08.02.2023 10:53:09 ----- M3Eakefg8ojF_r1i8IV40A
+08.02.2023 10:53:19 ----- Disconnected  M3Eakefg8ojF_r1i8IV40A
+08.02.2023 10:53:24 ----- vuvRnNV9HPIQMdLZuGCexA
+08.02.2023 10:53:44 ----- Disconnected  vuvRnNV9HPIQMdLZuGCexA
+08.02.2023 10:53:54 ----- ouJURnamSiCqjCwPNkotkw
+08.02.2023 10:54:52 ----- AdminHostedErrorObject reference not set to an instance of an object.
+08.02.2023 10:55:13 ----- w3ttgFO4IgexvxALUVE68Q
+08.02.2023 10:55:32 ----- Disconnected  w3ttgFO4IgexvxALUVE68Q
+08.02.2023 10:55:43 ----- jY1BRDW26AjDXm-JWocYIg
+08.02.2023 10:56:25 ----- Disconnected  jY1BRDW26AjDXm-JWocYIg
+08.02.2023 13:10:44 ----- AdminHostedErrorObject reference not set to an instance of an object.
+08.02.2023 13:10:55 ----- _3Iq8aXvizyQzWD51FWuJg
+08.02.2023 13:11:01 ----- Disconnected  _3Iq8aXvizyQzWD51FWuJg
+08.02.2023 13:11:06 ----- yCjAR0_XDcKOGAQmCYCZ1A

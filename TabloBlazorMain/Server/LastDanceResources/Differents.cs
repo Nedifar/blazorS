@@ -18,7 +18,6 @@ namespace TabloBlazorMain.Server.LastDanceResources
 #pragma warning disable SYSLIB0014 // Тип или член устарел
         public static WebClient webClient = new WebClient();
 #pragma warning restore SYSLIB0014 // Тип или член устарел
-        public static List<string> dataforcb = new List<string>();
         public static XLWorkbook _workbook;
         public int upDay = 0;
         public int downDay = 0;
@@ -284,9 +283,7 @@ namespace TabloBlazorMain.Server.LastDanceResources
                 stream.Close();
                 DateTime dateIZM = time;
                 int dayWeek = (int)time.DayOfWeek;
-#pragma warning disable SYSLIB0014 // Тип или член устарел
                 WebClient web = new WebClient();
-#pragma warning restore SYSLIB0014 // Тип или член устарел
                 CultureInfo culture = new CultureInfo("ru-RU");
                 HtmlDocument doc = new HtmlDocument();
                 var web1 = new HtmlWeb();
@@ -394,7 +391,8 @@ namespace TabloBlazorMain.Server.LastDanceResources
                         string result = ix.Cell(i, j).GetValue<string>();
                         if (result.Contains(kabinet))
                         {
-                            kabinets.Add(new DayWeekClass { Number = number, cabinet = kabinet, Day = result + $"\n{ix.Cell(5, j).GetValue<string>()}", groupMobile = ix.Cell(5, j).GetValue<string>() });
+                            var newDayWeek = new DayWeekClass { Number = number, cabinet = kabinet, Day = result + $"\n{ix.Cell(5, j).GetValue<string>()}", groupMobile = ix.Cell(5, j).GetValue<string>() };
+                            kabinets.Add(newDayWeek);
                             exit = false;
                             break;
                         }

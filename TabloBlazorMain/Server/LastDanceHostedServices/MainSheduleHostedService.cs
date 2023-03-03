@@ -130,8 +130,12 @@ namespace TabloBlazorMain.Server.LastDanceHostedServices
                                 {
                                     if (result.Contains("ДОП"))
                                     {
-                                        string[] massiv = result.Split(new char[] { '(', ')' });
-                                        result = massiv[1].Trim();
+                                        try
+                                        {
+                                            string[] massiv = result.Split(new char[] { '(', ')' });
+                                            result = massiv[1].Trim();
+                                        }
+                                        catch { }
                                     }
                                     else
                                     {
